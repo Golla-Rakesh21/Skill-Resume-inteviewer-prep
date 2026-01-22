@@ -1,0 +1,127 @@
+{
+  "Python": [
+    "Wrote basic Python scripts to automate the process of organizing files.",
+    "Completed the 'Python for Everybody' specialization on Coursera, covering data structures and web scraping.",
+    "Followed a tutorial to build a simple Flask web application for a personal project.",
+    "Used Python with the Pandas library for a university data analysis assignment.",
+    "Developed a REST API backend for a web application using Python and Django, handling over 1,000 requests per minute.",
+    "Implemented a CI/CD pipeline using Jenkins and Docker to automate testing and deployment of a Python microservice.",
+    "Built and maintained a data processing pipeline with Python and Apache Airflow to handle daily ETL jobs.",
+    "Contributed to an open-source Python library, focusing on writing unit tests and improving documentation.",
+    "Architected and led the development of a scalable, distributed system using Python, gRPC, and Kubernetes.",
+    "Optimized a high-frequency trading algorithm in Python, reducing latency by 30% using multiprocessing and Cython.",
+    "Designed and implemented a machine learning model deployment strategy for Python-based services on AWS SageMaker.",
+    "Mentored junior developers on Python best practices, code reviews, and system design principles."
+  ],
+  "TypeScript": [
+    "Learned TypeScript fundamentals, including types, interfaces, and classes, by converting a small JavaScript project.",
+    "Completed a tutorial on using TypeScript with React for building type-safe components.",
+    "Used TypeScript in a personal project to understand its benefits over plain JavaScript.",
+    "Developed client-side features for a SaaS platform using TypeScript and React, reducing runtime errors by 40% compared to the legacy JS module.",
+    "Integrated TypeScript into an existing Node.js and Express backend, defining strict types for API request and response models.",
+    "Refactored a large JavaScript module to TypeScript, improving maintainability and developer onboarding.",
+    "Architected a large-scale application's front-end using TypeScript, enforcing strict coding standards and creating shareable type definitions for a monorepo.",
+    "Led the full migration of a large JavaScript codebase to TypeScript, mentoring the team on best practices for static typing and improving overall code quality.",
+    "Designed and implemented a type-safe data layer using TypeScript and GraphQL Code Generator."
+  ],
+  "SQL": [
+    "Wrote basic SQL queries (SELECT, WHERE, JOIN) to retrieve data from a MySQL database for a university project.",
+    "Completed an online course on SQL fundamentals, covering data definition (DDL) and manipulation (DML).",
+    "Used SQL to perform simple data lookups to support the customer service team.",
+    "Developed complex SQL queries with subqueries, CTEs, and window functions to generate business intelligence reports from a PostgreSQL database.",
+    "Designed and normalized a relational database schema for a new application feature, ensuring data integrity.",
+    "Wrote and maintained stored procedures and triggers to automate database tasks.",
+    "Optimized slow-running SQL queries by analyzing execution plans, adding indexes, and refactoring logic, improving database query performance by over 200%.",
+    "Designed and implemented a data warehousing strategy using SQL, including ETL processes for ingesting data from multiple sources.",
+    "Managed database migrations and schema changes in a production environment with zero downtime."
+  ],
+  "React": [
+    "Learned React basics through the official documentation and built a simple to-do list application.",
+    "Completed a Udemy course on modern React with Hooks and Context API.",
+    "Built a personal portfolio website using React and CSS to showcase projects.",
+    "Developed and maintained user-facing features for a customer dashboard using React, Redux for state management, and TypeScript.",
+    "Collaborated with UX/UI designers to translate wireframes into high-quality, reusable React components.",
+    "Wrote unit and integration tests for React components using Jest and React Testing Library, achieving 95% test coverage.",
+    "Led the migration of a legacy jQuery application to a modern React/Next.js stack, improving performance and developer experience.",
+    "Designed and implemented a component library in React that was adopted by three other teams, ensuring brand consistency.",
+    "Optimized the performance of a large-scale React application by implementing code-splitting and memoization, improving the Lighthouse score by 40 points.",
+    "Architected the front-end of a complex single-page application (SPA) using React, GraphQL, and Apollo Client."
+  ],
+  "Node.js": [
+    "Built a simple command-line application using Node.js to fetch data from a public API.",
+    "Followed a tutorial to create a basic web server with Node.js and the Express framework.",
+    "Learned the basics of asynchronous programming in Node.js, including callbacks and Promises.",
+    "Developed a RESTful API with Node.js and Express, implementing endpoints for CRUD operations and user authentication with JWT.",
+    "Wrote unit tests for a Node.js application using Jest and Supertest, achieving 90% code coverage for the business logic.",
+    "Integrated a Node.js service with third-party APIs, such as Stripe for payments and SendGrid for emails.",
+    "Architected a microservices-based system using Node.js, optimizing for high concurrency and low latency with the event loop and worker threads.",
+    "Designed a real-time chat application using Node.js, WebSockets, and Redis for message queuing and horizontal scalability.",
+    "Implemented a secure and performant GraphQL server using Node.js and Apollo Server."
+  ],
+  "MongoDB": [
+    "Used MongoDB in a MERN stack project to store and retrieve basic user data and posts.",
+    "Completed MongoDB University's M001 course on MongoDB basics.",
+    "Practiced basic CRUD operations using the MongoDB shell and Compass GUI.",
+    "Designed a flexible schema for a content management system in MongoDB, utilizing embedded documents and references.",
+    "Implemented complex aggregation pipelines in MongoDB to process and summarize large datasets for an analytics dashboard.",
+    "Managed MongoDB database indexing to ensure efficient query performance for a growing application.",
+    "Designed and configured a sharded MongoDB cluster for horizontal scaling to handle millions of daily write operations.",
+    "Optimized MongoDB performance by analyzing query patterns, creating compound indexes, and implementing a proper data archiving strategy.",
+    "Implemented a robust backup and recovery strategy for a production MongoDB replica set."
+  ],
+  "AWS": [
+    "Deployed a simple static website to Amazon S3 and distributed it globally with CloudFront.",
+    "Completed the AWS Cloud Practitioner Essentials course and obtained the certification.",
+    "Launched and configured a basic EC2 instance to host a personal blog.",
+    "Developed and deployed a serverless application using AWS Lambda, API Gateway, and DynamoDB, reducing operational costs by 70%.",
+    "Managed EC2 instances, security groups, and IAM roles for a production application environment on AWS.",
+    "Configured a VPC with public and private subnets for enhanced network security.",
+    "Architected a highly available and fault-tolerant infrastructure on AWS using multiple Availability Zones, Auto Scaling Groups, and an Elastic Load Balancer.",
+    "Designed and implemented a CI/CD pipeline on AWS using CodePipeline, CodeBuild, and CodeDeploy to automate deployments to ECS.",
+    "Implemented a disaster recovery plan on AWS, leveraging cross-region snapshots and replication."
+  ],
+  "Docker": [
+    "Containerized a simple Python Flask application using a Dockerfile for consistent development environments.",
+    "Completed the Docker Curriculum tutorial to learn about images, containers, and volumes.",
+    "Used Docker Hub to pull and run public images like Nginx and Redis.",
+    "Developed a multi-container application environment using Docker Compose for local development and testing of a microservices app.",
+    "Integrated Docker into a CI/CD pipeline to build and push images to a private registry like Amazon ECR or Docker Hub.",
+    "Wrote Dockerfiles for both development and production environments, managing different dependencies and configurations.",
+    "Optimized Docker images for production, reducing image size by 70% using multi-stage builds and minimizing layers.",
+    "Designed and managed a container orchestration strategy using Docker Swarm for a small-scale production environment.",
+    "Implemented a logging and monitoring solution for Docker containers using the ELK stack."
+  ],
+  "Kubernetes": [
+    "Deployed a containerized application to a local Minikube cluster to learn the basics of Pods and Services.",
+    "Completed the Kubernetes Basics interactive tutorial on the official Kubernetes website.",
+    "Practiced using kubectl commands to inspect and manage cluster resources.",
+    "Wrote and managed Kubernetes manifests (Deployments, Services, ConfigMaps) to deploy applications to a managed Kubernetes service (GKE, EKS, AKS).",
+    "Implemented readiness and liveness probes to ensure application health and reliability in Kubernetes.",
+    "Configured Horizontal Pod Autoscaling (HPA) to automatically scale applications based on CPU usage.",
+    "Architected a scalable and resilient microservices platform on Kubernetes, using Helm for package management and Istio for service mesh capabilities.",
+    "Designed and implemented a monitoring and alerting solution for a Kubernetes cluster using Prometheus and Grafana.",
+    "Managed cluster security using RBAC, Network Policies, and tools like Calico."
+  ],
+  "Terraform": [
+    "Used Terraform to provision a single EC2 instance and a security group on AWS.",
+    "Completed the 'Introduction to Terraform on AWS' tutorial by HashiCorp to learn basic commands.",
+    "Wrote simple HCL configurations to define cloud resources declaratively.",
+    "Developed modular and reusable Terraform configurations to manage a multi-environment infrastructure (dev, staging, prod) on Azure.",
+    "Managed infrastructure state remotely using Terraform Cloud and integrated it into a GitHub Actions pipeline for automated provisioning.",
+    "Used Terraform variables and outputs to create flexible and parameter-driven infrastructure code.",
+    "Architected and implemented a complete Infrastructure as Code (IaC) strategy using Terraform, managing complex dependencies across multiple cloud providers (AWS and GCP).",
+    "Wrote custom Terraform providers or modules to manage bespoke internal resources and APIs.",
+    "Implemented a secure workflow for managing secrets within Terraform using HashiCorp Vault."
+  ],
+  "System Design": [
+    "Read 'Grokking the System Design Interview' and practiced common design problems like designing a URL shortener.",
+    "Familiar with basic concepts like load balancing, caching, CAP theorem, and database sharding.",
+    "Drew basic architecture diagrams for personal projects.",
+    "Designed the system architecture for a medium-scale web application, creating diagrams and documentation for the proposed solution.",
+    "Participated in system design discussions, contributing ideas on API design (REST vs. GraphQL), database choice, and service decomposition.",
+    "Made a technology selection for a new project, justifying the choice of a specific database and framework based on requirements.",
+    "Led the system design for a large-scale, distributed application, making critical decisions about microservices vs. monolith, choosing messaging queues (Kafka vs. RabbitMQ), and ensuring high availability.",
+    "Authored a comprehensive System Design Document (SDD) that served as the blueprint for a major product launch, covering scalability, reliability, and security.",
+    "Designed a system to handle 1 million concurrent users, detailing the caching strategy, database scaling, and CDN usage."
+  ]
+}

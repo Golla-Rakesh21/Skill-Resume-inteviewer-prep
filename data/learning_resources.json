@@ -1,0 +1,102 @@
+{
+  "Python": [
+    { "title": "Official Python Tutorial", "url": "https://docs.python.org/3/tutorial/", "type": "Documentation", "difficulty": "Beginner" },
+    { "title": "Real Python: Start Here", "url": "https://realpython.com/start-here/", "type": "Tutorial Series", "difficulty": "Beginner" },
+    { "title": "Automate the Boring Stuff with Python", "url": "https://automatetheboringstuff.com/", "type": "Book (Free)", "difficulty": "Beginner" },
+    { "title": "Fluent Python (Book)", "url": "https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/", "type": "Book", "difficulty": "Advanced" }
+  ],
+  "React": [
+    { "title": "React Official Docs - Quick Start", "url": "https://react.dev/learn", "type": "Documentation", "difficulty": "Beginner" },
+    { "title": "Full Modern React Tutorial by Net Ninja", "url": "https://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfpoAOL", "type": "Video Course", "difficulty": "Intermediate" },
+    { "title": "Epic React by Kent C. Dodds", "url": "https://epicreact.dev/", "type": "Paid Course", "difficulty": "Advanced" }
+  ],
+  "Docker": [
+    { "title": "Docker Curriculum", "url": "https://docker-curriculum.com/", "type": "Tutorial", "difficulty": "Beginner" },
+    { "title": "Docker for the Absolute Beginner", "url": "https://www.udemy.com/course/docker-for-the-absolute-beginner/", "type": "Paid Course", "difficulty": "Beginner" },
+    { "title": "Docker Deep Dive (Book)", "url": "https://www.amazon.com/Docker-Deep-Dive-Nigel-Poulton/dp/1521822808", "type": "Book", "difficulty": "Intermediate" }
+  ],
+  "Kubernetes": [
+    { "title": "Kubernetes Basics Tutorial", "url": "https://kubernetes.io/docs/tutorials/kubernetes-basics/", "type": "Interactive Tutorial", "difficulty": "Beginner" },
+    { "title": "Kubernetes Crash Course for Absolute Beginners", "url": "https://www.youtube.com/watch?v=s_o8dwzRlu4", "type": "Video", "difficulty": "Beginner" },
+    { "title": "Certified Kubernetes Administrator (CKA) Course", "url": "https://www.cncf.io/certification/cka/", "type": "Certification", "difficulty": "Advanced" }
+  ],
+  "TypeScript": [
+    { "title": "TypeScript Handbook", "url": "https://www.typescriptlang.org/docs/handbook/intro.html", "type": "Documentation", "difficulty": "Beginner" },
+    { "title": "Total TypeScript by Matt Pocock", "url": "https://www.totaltypescript.com/", "type": "Paid Course", "difficulty": "Intermediate" }
+  ],
+  "AWS": [
+    { "title": "AWS Cloud Practitioner Essentials", "url": "https://aws.amazon.com/training/digital/aws-cloud-practitioner-essentials/", "type": "Free Course", "difficulty": "Beginner" },
+    { "title": "AWS Solutions Architect - Associate Course (A Cloud Guru)", "url": "https://acloudguru.com/course/aws-certified-solutions-architect-associate-saa-c03", "type": "Paid Course", "difficulty": "Intermediate" },
+    { "title": "Official AWS Certifications Path", "url": "https://aws.amazon.com/certification/", "type": "Certification", "difficulty": "Advanced" }
+  ],
+  "Azure": [
+    { "title": "Azure Fundamentals (AZ-900) Learning Path", "url": "https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/", "type": "Free Course", "difficulty": "Beginner" },
+    { "title": "Azure Administrator (AZ-104) Learning Path", "url": "https://learn.microsoft.com/en-us/training/paths/az-104-administrator-prerequisites/", "type": "Free Course", "difficulty": "Intermediate" },
+    { "title": "Azure Architecture Center", "url": "https://learn.microsoft.com/en-us/azure/architecture/", "type": "Documentation", "difficulty": "Advanced" }
+  ],
+  "GCP": [
+    { "title": "Google Cloud Digital Leader Learning Path", "url": "https://www.cloudskillsboost.google/paths/16", "type": "Free Course", "difficulty": "Beginner" },
+    { "title": "Associate Cloud Engineer Learning Path", "url": "https://www.cloudskillsboost.google/paths/11", "type": "Free Course", "difficulty": "Intermediate" }
+  ],
+  "Terraform": [
+      { "title": "Introduction to Terraform on AWS", "url": "https://developer.hashicorp.com/terraform/tutorials/aws-get-started", "type": "Tutorial", "difficulty": "Beginner" },
+      { "title": "Terraform: Up & Running (Book)", "url": "https://www.terraformupandrunning.com/", "type": "Book", "difficulty": "Intermediate" }
+  ],
+  "CI/CD": [
+      { "title": "What is CI/CD?", "url": "https://aws.amazon.com/devops/what-is-cicd/", "type": "Article", "difficulty": "Beginner" },
+      { "title": "Continuous Delivery with Jenkins", "url": "https://www.jenkins.io/solutions/continuous-delivery/", "type": "Documentation", "difficulty": "Intermediate" }
+  ],
+  "GitHub Actions": [
+    { "title": "Introduction to GitHub Actions", "url": "https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions", "type": "Documentation", "difficulty": "Beginner" },
+    { "title": "GitHub Actions Tutorial by freeCodeCamp", "url": "https://www.youtube.com/watch?v=R8_veQiY-ac", "type": "Video", "difficulty": "Intermediate" }
+  ],
+  "Next.js": [
+      { "title": "Next.js Foundations", "url": "https://nextjs.org/learn/dashboard-app", "type": "Interactive Tutorial", "difficulty": "Beginner" }
+  ],
+  "Node.js": [
+    { "title": "Introduction to Node.js", "url": "https://nodejs.dev/en/learn/", "type": "Documentation", "difficulty": "Beginner" },
+    { "title": "The Node.js Handbook", "url": "https://www.freecodecamp.org/news/the-nodejs-handbook/", "type": "Article Series", "difficulty": "Intermediate" },
+    { "title": "Node.js Design Patterns (Book)", "url": "https://www.nodejsdesignpatterns.com/", "type": "Book", "difficulty": "Advanced" }
+  ],
+  "Express": [
+    { "title": "Express.js - Getting Started", "url": "https://expressjs.com/en/starter/installing.html", "type": "Documentation", "difficulty": "Beginner" },
+    { "title": "Express.js Tutorial (MDN)", "url": "https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs", "type": "Tutorial", "difficulty": "Intermediate" }
+  ],
+  "MongoDB": [
+    { "title": "MongoDB University: Introduction to MongoDB", "url": "https://learn.mongodb.com/courses/m001-mongodb-basics", "type": "Free Course", "difficulty": "Beginner" },
+    { "title": "MongoDB Developer Center", "url": "https://www.mongodb.com/developer/", "type": "Resource Hub", "difficulty": "Intermediate" },
+    { "title": "MongoDB Performance Best Practices", "url": "https://www.mongodb.com/docs/manual/administration/analyzing-mongodb-performance/", "type": "Documentation", "difficulty": "Advanced" }
+  ],
+  "MySQL": [
+    { "title": "MySQL Tutorial for Beginners", "url": "https://www.mysqltutorial.org/", "type": "Tutorial", "difficulty": "Beginner" },
+    { "title": "SQL for Data Science (Coursera)", "url": "https://www.coursera.org/learn/sql-for-data-science", "type": "Free Course", "difficulty": "Intermediate" },
+    { "title": "High Performance MySQL (Book)", "url": "https://www.oreilly.com/library/view/high-performance-mysql/9781492080510/", "type": "Book", "difficulty": "Advanced" }
+  ],
+  "PostgreSQL": [
+    { "title": "PostgreSQL Tutorial", "url": "https://www.postgresqltutorial.com/", "type": "Tutorial", "difficulty": "Beginner" },
+    { "title": "The Art of PostgreSQL (Book)", "url": "https://theartofpostgresql.com/", "type": "Book", "difficulty": "Intermediate" }
+  ],
+  "GraphQL": [
+    { "title": "Introduction to GraphQL", "url": "https://graphql.org/learn/", "type": "Documentation", "difficulty": "Beginner" },
+    { "title": "How to GraphQL", "url": "https://www.howtographql.com/", "type": "Interactive Tutorial", "difficulty": "Intermediate" },
+    { "title": "Apollo Odyssey - Fullstack Tutorial", "url": "https://odyssey.apollographql.com/", "type": "Free Course", "difficulty": "Intermediate" }
+  ],
+  "Microservices": [
+    { "title": "Microservices by Martin Fowler", "url": "https://martinfowler.com/articles/microservices.html", "type": "Article", "difficulty": "Beginner" },
+    { "title": "Microservices.io Patterns", "url": "https://microservices.io/patterns/index.html", "type": "Design Patterns", "difficulty": "Intermediate" },
+    { "title": "Building Microservices (Book)", "url": "https://www.oreilly.com/library/view/building-microservices-2nd/9781492034018/", "type": "Book", "difficulty": "Advanced" }
+  ],
+  "System Design": [
+    { "title": "Grokking the System Design Interview", "url": "https://www.educative.io/courses/grokking-the-system-design-interview", "type": "Paid Course", "difficulty": "Intermediate" },
+    { "title": "System Design Primer (GitHub)", "url": "https://github.com/donnemartin/system-design-primer", "type": "Resource Hub", "difficulty": "Intermediate" },
+    { "title": "ByteByteGo by Alex Xu", "url": "https://bytebytego.com/", "type": "Newsletter/Book", "difficulty": "Advanced" }
+  ],
+  "Agile": [
+    { "title": "What is Agile? by Atlassian", "url": "https://www.atlassian.com/agile", "type": "Article Series", "difficulty": "Beginner" },
+    { "title": "The Scrum Guide", "url": "https://scrumguides.org/scrum-guide.html", "type": "Documentation", "difficulty": "Beginner" },
+    { "title": "Professional Scrum Master (PSM) Certification", "url": "https://www.scrum.org/professional-scrum-master-i-certification", "type": "Certification", "difficulty": "Intermediate" }
+  ],
+  "Jira": [
+    { "title": "Learn Jira Software for free", "url": "https://www.atlassian.com/university/free-training/jira-fundamentals", "type": "Free Course", "difficulty": "Beginner" }
+  ]
+}
