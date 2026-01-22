@@ -1,0 +1,50 @@
+skill,snippet,true_level
+Python,Wrote basic Python scripts to automate the process of organizing files.,Beginner
+Python,"Completed the 'Python for Everybody' specialization on Coursera, covering data structures and web scraping.",Beginner
+Python,Followed a tutorial to build a simple Flask web application for a personal project.,Beginner
+Python,Used Python with the Pandas library for a university data analysis assignment.,Intermediate
+Python,"Developed a REST API backend for a web application using Python and Django, handling over 1,000 requests per minute.",Intermediate
+Python,Implemented a CI/CD pipeline using Jenkins and Docker to automate testing and deployment of a Python microservice.,Intermediate
+Python,Built and maintained a data processing pipeline with Python and Apache Airflow to handle daily ETL jobs.,Advanced
+Python,"Contributed to an open-source Python library, focusing on writing unit tests and improving documentation.",Intermediate
+Python,"Architected and led the development of a scalable, distributed system using Python, gRPC, and Kubernetes.",Advanced
+Python,"Optimized a high-frequency trading algorithm in Python, reducing latency by 30% using multiprocessing and Cython.",Advanced
+Python,Designed and implemented a machine learning model deployment strategy for Python-based services on AWS SageMaker.,Intermediate
+Python,"Mentored junior developers on Python best practices, code reviews, and system design principles.",Intermediate
+React,Learned React basics through the official documentation and built a simple to-do list application.,Beginner
+React,Completed a Udemy course on modern React with Hooks and Context API.,Beginner
+React,Built a personal portfolio website using React and CSS to showcase projects.,Intermediate
+React,"Developed and maintained user-facing features for a customer dashboard using React, Redux for state management, and TypeScript.",Advanced
+React,"Collaborated with UX/UI designers to translate wireframes into high-quality, reusable React components.",Intermediate
+React,"Wrote unit and integration tests for React components using Jest and React Testing Library, achieving 95% test coverage.",Intermediate
+React,"Led the migration of a legacy jQuery application to a modern React/Next.js stack, improving performance and developer experience.",Intermediate
+React,"Designed and implemented a component library in React that was adopted by three other teams, ensuring brand consistency.",Intermediate
+React,"Optimized the performance of a large-scale React application by implementing code-splitting and memoization, improving the Lighthouse score by 40 points.",Advanced
+React,"Architected the front-end of a complex single-page application (SPA) using React, GraphQL, and Apollo Client.",Advanced
+AWS,Deployed a simple static website to Amazon S3 and distributed it globally with CloudFront.,Advanced
+AWS,Completed the AWS Cloud Practitioner Essentials course and obtained the certification.,Beginner
+AWS,Launched and configured a basic EC2 instance to host a personal blog.,Beginner
+AWS,"Developed and deployed a serverless application using AWS Lambda, API Gateway, and DynamoDB, reducing operational costs by 70%.",Advanced
+AWS,"Managed EC2 instances, security groups, and IAM roles for a production application environment on AWS.",Advanced
+AWS,Configured a VPC with public and private subnets for enhanced network security.,Intermediate
+AWS,"Architected a highly available and fault-tolerant infrastructure on AWS using multiple Availability Zones, Auto Scaling Groups, and an Elastic Load Balancer.",Advanced
+AWS,"Designed and implemented a CI/CD pipeline on AWS using CodePipeline, CodeBuild, and CodeDeploy to automate deployments to ECS.",Intermediate
+AWS,"Implemented a disaster recovery plan on AWS, leveraging cross-region snapshots and replication.",Intermediate
+SQL,"Wrote basic SQL queries (SELECT, WHERE, JOIN) to retrieve data from a MySQL database for a university project.",Beginner
+SQL,"Completed an online course on SQL fundamentals, covering data definition (DDL) and manipulation (DML).",Beginner
+SQL,Used SQL to perform simple data lookups to support the customer service team.,Intermediate
+SQL,"Developed complex SQL queries with subqueries, CTEs, and window functions to generate business intelligence reports from a PostgreSQL database.",Intermediate
+SQL,"Designed and normalized a relational database schema for a new application feature, ensuring data integrity.",Intermediate
+SQL,Wrote and maintained stored procedures and triggers to automate database tasks.,Advanced
+SQL,"Optimized slow-running SQL queries by analyzing execution plans, adding indexes, and refactoring logic, improving database query performance by over 200%.",Advanced
+SQL,"Designed and implemented a data warehousing strategy using SQL, including ETL processes for ingesting data from multiple sources.",Intermediate
+SQL,Managed database migrations and schema changes in a production environment with zero downtime.,Advanced
+Docker,Containerized a simple Python Flask application using a Dockerfile for consistent development environments.,Intermediate
+Docker,"Completed the Docker Curriculum tutorial to learn about images, containers, and volumes.",Beginner
+Docker,Used Docker Hub to pull and run public images like Nginx and Redis.,Intermediate
+Docker,Developed a multi-container application environment using Docker Compose for local development and testing of a microservices app.,Intermediate
+Docker,Integrated Docker into a CI/CD pipeline to build and push images to a private registry like Amazon ECR or Docker Hub.,Intermediate
+Docker,"Wrote Dockerfiles for both development and production environments, managing different dependencies and configurations.",Advanced
+Docker,"Optimized Docker images for production, reducing image size by 70% using multi-stage builds and minimizing layers.",Advanced
+Docker,Designed and managed a container orchestration strategy using Docker Swarm for a small-scale production environment.,Advanced
+Docker,Implemented a logging and monitoring solution for Docker containers using the ELK stack.,Intermediate

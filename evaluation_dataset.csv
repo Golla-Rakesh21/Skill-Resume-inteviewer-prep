@@ -1,0 +1,1550 @@
+skill,snippet,true_level
+Python,Wrote basic Python scripts to automate the process of organizing files.,Beginner
+Python,"Completed the 'Python for Everybody' specialization on Coursera, covering data structures and web scraping.",Beginner
+Python,Followed a tutorial to build a simple Flask web application for a personal project.,Beginner
+Python,Used Python with the Pandas library for a university data analysis assignment.,Intermediate
+Python,"Developed a REST API backend for a web application using Python and Django, handling over 1,000 requests per minute.",Intermediate
+Python,Implemented a CI/CD pipeline using Jenkins and Docker to automate testing and deployment of a Python microservice.,Intermediate
+Python,Built and maintained a data processing pipeline with Python and Apache Airflow to handle daily ETL jobs.,Advanced
+Python,"Contributed to an open-source Python library, focusing on writing unit tests and improving documentation.",Intermediate
+Python,"Architected and led the development of a scalable, distributed system using Python, gRPC, and Kubernetes.",Advanced
+Python,"Optimized a high-frequency trading algorithm in Python, reducing latency by 30% using multiprocessing and Cython.",Advanced
+Python,Designed and implemented a machine learning model deployment strategy for Python-based services on AWS SageMaker.,Intermediate
+Python,"Mentored junior developers on Python best practices, code reviews, and system design principles.",Intermediate
+React,Learned React basics through the official documentation and built a simple to-do list application.,Beginner
+React,Completed a Udemy course on modern React with Hooks and Context API.,Beginner
+React,Built a personal portfolio website using React and CSS to showcase projects.,Intermediate
+React,"Developed and maintained user-facing features for a customer dashboard using React, Redux for state management, and TypeScript.",Advanced
+React,"Collaborated with UX/UI designers to translate wireframes into high-quality, reusable React components.",Intermediate
+React,"Wrote unit and integration tests for React components using Jest and React Testing Library, achieving 95% test coverage.",Intermediate
+React,"Led the migration of a legacy jQuery application to a modern React/Next.js stack, improving performance and developer experience.",Intermediate
+React,"Designed and implemented a component library in React that was adopted by three other teams, ensuring brand consistency.",Intermediate
+React,"Optimized the performance of a large-scale React application by implementing code-splitting and memoization, improving the Lighthouse score by 40 points.",Advanced
+React,"Architected the front-end of a complex single-page application (SPA) using React, GraphQL, and Apollo Client.",Advanced
+AWS,Deployed a simple static website to Amazon S3 and distributed it globally with CloudFront.,Advanced
+AWS,Completed the AWS Cloud Practitioner Essentials course and obtained the certification.,Beginner
+AWS,Launched and configured a basic EC2 instance to host a personal blog.,Beginner
+AWS,"Developed and deployed a serverless application using AWS Lambda, API Gateway, and DynamoDB, reducing operational costs by 70%.",Advanced
+AWS,"Managed EC2 instances, security groups, and IAM roles for a production application environment on AWS.",Advanced
+AWS,Configured a VPC with public and private subnets for enhanced network security.,Intermediate
+AWS,"Architected a highly available and fault-tolerant infrastructure on AWS using multiple Availability Zones, Auto Scaling Groups, and an Elastic Load Balancer.",Advanced
+AWS,"Designed and implemented a CI/CD pipeline on AWS using CodePipeline, CodeBuild, and CodeDeploy to automate deployments to ECS.",Intermediate
+AWS,"Implemented a disaster recovery plan on AWS, leveraging cross-region snapshots and replication.",Intermediate
+SQL,"Wrote basic SQL queries (SELECT, WHERE, JOIN) to retrieve data from a MySQL database for a university project.",Beginner
+SQL,"Completed an online course on SQL fundamentals, covering data definition (DDL) and manipulation (DML).",Beginner
+SQL,Used SQL to perform simple data lookups to support the customer service team.,Intermediate
+SQL,"Developed complex SQL queries with subqueries, CTEs, and window functions to generate business intelligence reports from a PostgreSQL database.",Intermediate
+SQL,"Designed and normalized a relational database schema for a new application feature, ensuring data integrity.",Intermediate
+SQL,Wrote and maintained stored procedures and triggers to automate database tasks.,Advanced
+SQL,"Optimized slow-running SQL queries by analyzing execution plans, adding indexes, and refactoring logic, improving database query performance by over 200%.",Advanced
+SQL,"Designed and implemented a data warehousing strategy using SQL, including ETL processes for ingesting data from multiple sources.",Intermediate
+SQL,Managed database migrations and schema changes in a production environment with zero downtime.,Advanced
+Docker,Containerized a simple Python Flask application using a Dockerfile for consistent development environments.,Intermediate
+Docker,"Completed the Docker Curriculum tutorial to learn about images, containers, and volumes.",Beginner
+Docker,Used Docker Hub to pull and run public images like Nginx and Redis.,Intermediate
+Docker,Developed a multi-container application environment using Docker Compose for local development and testing of a microservices app.,Intermediate
+Docker,Integrated Docker into a CI/CD pipeline to build and push images to a private registry like Amazon ECR or Docker Hub.,Intermediate
+Docker,"Wrote Dockerfiles for both development and production environments, managing different dependencies and configurations.",Advanced
+Docker,"Optimized Docker images for production, reducing image size by 70% using multi-stage builds and minimizing layers.",Advanced
+Docker,Designed and managed a container orchestration strategy using Docker Swarm for a small-scale production environment.,Advanced
+Docker,Implemented a logging and monitoring solution for Docker containers using the ELK stack.,Intermediate
+Communication,I just started learning Communication and can do simple tasks like mentoring.,Beginner
+Cloud,I can write very basic Cloud programs involving serverless computing.,Beginner
+Data Science,I completed an introductory course on Data Science.,Beginner
+Data Science,I can write very basic Data Science programs involving exploratory analysis.,Beginner
+Web Development,I just started learning Web Development and can do simple tasks like frontend frameworks.,Beginner
+Python,I can write very basic Python programs involving building Flask apps.,Beginner
+Cybersecurity,I just started learning Cybersecurity and can do simple tasks like security testing.,Beginner
+Python,I can write very basic Python programs involving printing Hello World.,Beginner
+Web Development,I can write very basic Web Development programs involving REST APIs.,Beginner
+Data Science,I can write very basic Data Science programs involving exploratory analysis.,Beginner
+SQL,I can write very basic SQL programs involving subqueries.,Beginner
+Web Development,I can write very basic Web Development programs involving REST APIs.,Beginner
+Cybersecurity,I understand only the basic concepts of Cybersecurity.,Beginner
+Java,I understand only the basic concepts of Java.,Beginner
+SQL,I can write very basic SQL programs involving optimizing queries.,Beginner
+Web Development,I completed an introductory course on Web Development.,Beginner
+Communication,I understand only the basic concepts of Communication.,Beginner
+SQL,I just started learning SQL and can do simple tasks like SELECT queries.,Beginner
+Python,I can write very basic Python programs involving printing Hello World.,Beginner
+Data Science,I completed an introductory course on Data Science.,Beginner
+Machine Learning,I just started learning Machine Learning and can do simple tasks like neural networks.,Beginner
+Web Development,I can write very basic Web Development programs involving deployment.,Beginner
+Communication,I can write very basic Communication programs involving presentations.,Beginner
+Data Science,I can write very basic Data Science programs involving deep learning.,Beginner
+Cloud,I can write very basic Cloud programs involving cloud architecture.,Beginner
+Python,I can write very basic Python programs involving automation.,Beginner
+Java,I understand only the basic concepts of Java.,Beginner
+Cybersecurity,I just started learning Cybersecurity and can do simple tasks like network basics.,Beginner
+SQL,I just started learning SQL and can do simple tasks like INSERT queries.,Beginner
+SQL,I can write very basic SQL programs involving joins.,Beginner
+Cloud,I can write very basic Cloud programs involving basic concepts.,Beginner
+Machine Learning,I can write very basic Machine Learning programs involving NLP models.,Beginner
+Communication,I can write very basic Communication programs involving introductions.,Beginner
+Machine Learning,I completed an introductory course on Machine Learning.,Beginner
+Cloud,I understand only the basic concepts of Cloud.,Beginner
+Python,I just started learning Python and can do simple tasks like printing Hello World.,Beginner
+Cybersecurity,I understand only the basic concepts of Cybersecurity.,Beginner
+SQL,I just started learning SQL and can do simple tasks like INSERT queries.,Beginner
+Data Science,I understand only the basic concepts of Data Science.,Beginner
+Communication,I can write very basic Communication programs involving technical communication.,Beginner
+Web Development,I completed an introductory course on Web Development.,Beginner
+Data Science,I just started learning Data Science and can do simple tasks like data visualization.,Beginner
+SQL,I can write very basic SQL programs involving optimizing queries.,Beginner
+Machine Learning,I understand only the basic concepts of Machine Learning.,Beginner
+Web Development,I completed an introductory course on Web Development.,Beginner
+Java,I can write very basic Java programs involving multithreading.,Beginner
+SQL,I just started learning SQL and can do simple tasks like subqueries.,Beginner
+Java,I just started learning Java and can do simple tasks like JVM tuning.,Beginner
+Data Science,I understand only the basic concepts of Data Science.,Beginner
+SQL,I can write very basic SQL programs involving subqueries.,Beginner
+Data Science,I understand only the basic concepts of Data Science.,Beginner
+Cybersecurity,I can write very basic Cybersecurity programs involving encryption.,Beginner
+Data Science,I can write very basic Data Science programs involving data visualization.,Beginner
+Python,I completed an introductory course on Python.,Beginner
+Cloud,I can write very basic Cloud programs involving cloud architecture.,Beginner
+Web Development,I can write very basic Web Development programs involving deployment.,Beginner
+Data Science,I completed an introductory course on Data Science.,Beginner
+Java,I just started learning Java and can do simple tasks like multithreading.,Beginner
+Data Science,I can write very basic Data Science programs involving model training.,Beginner
+Cloud,I can write very basic Cloud programs involving cloud architecture.,Beginner
+Communication,I can write very basic Communication programs involving presentations.,Beginner
+Web Development,I understand only the basic concepts of Web Development.,Beginner
+Machine Learning,I just started learning Machine Learning and can do simple tasks like NLP models.,Beginner
+SQL,I understand only the basic concepts of SQL.,Beginner
+Java,I just started learning Java and can do simple tasks like multithreading.,Beginner
+Web Development,I can write very basic Web Development programs involving frontend frameworks.,Beginner
+Machine Learning,I completed an introductory course on Machine Learning.,Beginner
+Python,I completed an introductory course on Python.,Beginner
+Cybersecurity,I completed an introductory course on Cybersecurity.,Beginner
+Python,I can write very basic Python programs involving printing Hello World.,Beginner
+Machine Learning,I understand only the basic concepts of Machine Learning.,Beginner
+Data Science,I completed an introductory course on Data Science.,Beginner
+SQL,I can write very basic SQL programs involving INSERT queries.,Beginner
+Machine Learning,I just started learning Machine Learning and can do simple tasks like deep learning.,Beginner
+Machine Learning,I completed an introductory course on Machine Learning.,Beginner
+Cloud,I understand only the basic concepts of Cloud.,Beginner
+Web Development,I just started learning Web Development and can do simple tasks like deployment.,Beginner
+Data Science,I completed an introductory course on Data Science.,Beginner
+SQL,I completed an introductory course on SQL.,Beginner
+Cybersecurity,I completed an introductory course on Cybersecurity.,Beginner
+Machine Learning,I understand only the basic concepts of Machine Learning.,Beginner
+Communication,I can write very basic Communication programs involving mentoring.,Beginner
+Communication,I completed an introductory course on Communication.,Beginner
+Cybersecurity,I completed an introductory course on Cybersecurity.,Beginner
+Cloud,I completed an introductory course on Cloud.,Beginner
+Communication,I completed an introductory course on Communication.,Beginner
+Web Development,I understand only the basic concepts of Web Development.,Beginner
+SQL,I just started learning SQL and can do simple tasks like INSERT queries.,Beginner
+Web Development,I understand only the basic concepts of Web Development.,Beginner
+Java,I can write very basic Java programs involving Spring Boot apps.,Beginner
+Cloud,I just started learning Cloud and can do simple tasks like basic concepts.,Beginner
+SQL,I just started learning SQL and can do simple tasks like subqueries.,Beginner
+Cybersecurity,I just started learning Cybersecurity and can do simple tasks like security testing.,Beginner
+Cloud,I understand only the basic concepts of Cloud.,Beginner
+Cloud,I can write very basic Cloud programs involving deploying apps.,Beginner
+Communication,I just started learning Communication and can do simple tasks like introductions.,Beginner
+Communication,I completed an introductory course on Communication.,Beginner
+Java,I understand only the basic concepts of Java.,Beginner
+Java,I just started learning Java and can do simple tasks like enterprise applications.,Beginner
+Machine Learning,I understand only the basic concepts of Machine Learning.,Beginner
+Python,I just started learning Python and can do simple tasks like data analysis with pandas.,Beginner
+SQL,I completed an introductory course on SQL.,Beginner
+SQL,I understand only the basic concepts of SQL.,Beginner
+Data Science,I can write very basic Data Science programs involving model training.,Beginner
+Cybersecurity,I completed an introductory course on Cybersecurity.,Beginner
+SQL,I completed an introductory course on SQL.,Beginner
+Data Science,I completed an introductory course on Data Science.,Beginner
+Java,I just started learning Java and can do simple tasks like OOP concepts.,Beginner
+Java,I can write very basic Java programs involving Spring Boot apps.,Beginner
+SQL,I understand only the basic concepts of SQL.,Beginner
+Cloud,I can write very basic Cloud programs involving deploying apps.,Beginner
+SQL,I just started learning SQL and can do simple tasks like subqueries.,Beginner
+Java,I just started learning Java and can do simple tasks like enterprise applications.,Beginner
+Machine Learning,I completed an introductory course on Machine Learning.,Beginner
+SQL,I just started learning SQL and can do simple tasks like joins.,Beginner
+Communication,I just started learning Communication and can do simple tasks like introductions.,Beginner
+Machine Learning,I can write very basic Machine Learning programs involving deep learning.,Beginner
+Java,I completed an introductory course on Java.,Beginner
+Communication,I just started learning Communication and can do simple tasks like mentoring.,Beginner
+Python,I just started learning Python and can do simple tasks like data analysis with pandas.,Beginner
+Data Science,I completed an introductory course on Data Science.,Beginner
+Machine Learning,I just started learning Machine Learning and can do simple tasks like training models.,Beginner
+Cybersecurity,I can write very basic Cybersecurity programs involving network basics.,Beginner
+SQL,I understand only the basic concepts of SQL.,Beginner
+Java,I can write very basic Java programs involving enterprise applications.,Beginner
+Cybersecurity,I completed an introductory course on Cybersecurity.,Beginner
+Machine Learning,I understand only the basic concepts of Machine Learning.,Beginner
+Python,I just started learning Python and can do simple tasks like data analysis with pandas.,Beginner
+Communication,I just started learning Communication and can do simple tasks like presentations.,Beginner
+Data Science,I understand only the basic concepts of Data Science.,Beginner
+Cybersecurity,I can write very basic Cybersecurity programs involving threat detection.,Beginner
+Cloud,I can write very basic Cloud programs involving serverless computing.,Beginner
+Cloud,I can write very basic Cloud programs involving serverless computing.,Beginner
+Web Development,I just started learning Web Development and can do simple tasks like full-stack apps.,Beginner
+Web Development,I understand only the basic concepts of Web Development.,Beginner
+Python,I can write very basic Python programs involving printing Hello World.,Beginner
+Web Development,I completed an introductory course on Web Development.,Beginner
+Java,I just started learning Java and can do simple tasks like multithreading.,Beginner
+Machine Learning,I can write very basic Machine Learning programs involving training models.,Beginner
+Java,I understand only the basic concepts of Java.,Beginner
+Machine Learning,I just started learning Machine Learning and can do simple tasks like linear regression.,Beginner
+Web Development,I understand only the basic concepts of Web Development.,Beginner
+Machine Learning,I completed an introductory course on Machine Learning.,Beginner
+Web Development,I just started learning Web Development and can do simple tasks like HTML/CSS basics.,Beginner
+Java,I understand only the basic concepts of Java.,Beginner
+Machine Learning,I can write very basic Machine Learning programs involving NLP models.,Beginner
+Web Development,I can write very basic Web Development programs involving full-stack apps.,Beginner
+Cloud,I just started learning Cloud and can do simple tasks like basic concepts.,Beginner
+Machine Learning,I just started learning Machine Learning and can do simple tasks like linear regression.,Beginner
+Web Development,I completed an introductory course on Web Development.,Beginner
+Python,I completed an introductory course on Python.,Beginner
+Python,I just started learning Python and can do simple tasks like building Flask apps.,Beginner
+Cybersecurity,I can write very basic Cybersecurity programs involving threat detection.,Beginner
+Data Science,I can write very basic Data Science programs involving data visualization.,Beginner
+Web Development,I just started learning Web Development and can do simple tasks like HTML/CSS basics.,Beginner
+Java,I understand only the basic concepts of Java.,Beginner
+Python,I just started learning Python and can do simple tasks like building Flask apps.,Beginner
+Python,I understand only the basic concepts of Python.,Beginner
+Machine Learning,I can write very basic Machine Learning programs involving linear regression.,Beginner
+Cybersecurity,I can write very basic Cybersecurity programs involving incident response.,Beginner
+Data Science,I can write very basic Data Science programs involving model training.,Beginner
+Web Development,I just started learning Web Development and can do simple tasks like REST APIs.,Beginner
+Cloud,I can write very basic Cloud programs involving scalability.,Beginner
+Cybersecurity,I understand only the basic concepts of Cybersecurity.,Beginner
+SQL,I can write very basic SQL programs involving INSERT queries.,Beginner
+Data Science,I understand only the basic concepts of Data Science.,Beginner
+Communication,I just started learning Communication and can do simple tasks like introductions.,Beginner
+Data Science,I can write very basic Data Science programs involving deep learning.,Beginner
+Cloud,I understand only the basic concepts of Cloud.,Beginner
+Communication,I understand only the basic concepts of Communication.,Beginner
+Data Science,I understand only the basic concepts of Data Science.,Beginner
+Cloud,I completed an introductory course on Cloud.,Beginner
+SQL,I just started learning SQL and can do simple tasks like SELECT queries.,Beginner
+Cybersecurity,I understand only the basic concepts of Cybersecurity.,Beginner
+Communication,I completed an introductory course on Communication.,Beginner
+Cloud,I completed an introductory course on Cloud.,Beginner
+Python,I just started learning Python and can do simple tasks like building Flask apps.,Beginner
+Machine Learning,I just started learning Machine Learning and can do simple tasks like neural networks.,Beginner
+Cybersecurity,I can write very basic Cybersecurity programs involving incident response.,Beginner
+Cybersecurity,I just started learning Cybersecurity and can do simple tasks like threat detection.,Beginner
+Web Development,I understand only the basic concepts of Web Development.,Beginner
+Cloud,I completed an introductory course on Cloud.,Beginner
+Python,I understand only the basic concepts of Python.,Beginner
+Cybersecurity,I can write very basic Cybersecurity programs involving network basics.,Beginner
+Cybersecurity,I understand only the basic concepts of Cybersecurity.,Beginner
+Communication,I completed an introductory course on Communication.,Beginner
+SQL,I completed an introductory course on SQL.,Beginner
+Web Development,I just started learning Web Development and can do simple tasks like deployment.,Beginner
+Java,I completed an introductory course on Java.,Beginner
+Data Science,I just started learning Data Science and can do simple tasks like model training.,Beginner
+Python,I can write very basic Python programs involving printing Hello World.,Beginner
+Cloud,I completed an introductory course on Cloud.,Beginner
+Cloud,I can write very basic Cloud programs involving scalability.,Beginner
+Web Development,I understand only the basic concepts of Web Development.,Beginner
+SQL,I completed an introductory course on SQL.,Beginner
+Java,I understand only the basic concepts of Java.,Beginner
+Machine Learning,I can write very basic Machine Learning programs involving deep learning.,Beginner
+Communication,I completed an introductory course on Communication.,Beginner
+Cloud,I understand only the basic concepts of Cloud.,Beginner
+Machine Learning,I can write very basic Machine Learning programs involving training models.,Beginner
+SQL,I completed an introductory course on SQL.,Beginner
+Cloud,I can write very basic Cloud programs involving cloud architecture.,Beginner
+Web Development,I completed an introductory course on Web Development.,Beginner
+Cloud,I completed an introductory course on Cloud.,Beginner
+Cybersecurity,I just started learning Cybersecurity and can do simple tasks like incident response.,Beginner
+Cybersecurity,I just started learning Cybersecurity and can do simple tasks like threat detection.,Beginner
+Data Science,I just started learning Data Science and can do simple tasks like feature engineering.,Beginner
+Java,I understand only the basic concepts of Java.,Beginner
+Python,I can write very basic Python programs involving printing Hello World.,Beginner
+Cybersecurity,I just started learning Cybersecurity and can do simple tasks like encryption.,Beginner
+Web Development,I understand only the basic concepts of Web Development.,Beginner
+Python,I understand only the basic concepts of Python.,Beginner
+Python,I understand only the basic concepts of Python.,Beginner
+Machine Learning,I just started learning Machine Learning and can do simple tasks like deep learning.,Beginner
+Cybersecurity,I understand only the basic concepts of Cybersecurity.,Beginner
+Machine Learning,I completed an introductory course on Machine Learning.,Beginner
+Web Development,I completed an introductory course on Web Development.,Beginner
+Data Science,I understand only the basic concepts of Data Science.,Beginner
+Machine Learning,I completed an introductory course on Machine Learning.,Beginner
+Machine Learning,I can write very basic Machine Learning programs involving NLP models.,Beginner
+Web Development,I completed an introductory course on Web Development.,Beginner
+Web Development,I can write very basic Web Development programs involving REST APIs.,Beginner
+Web Development,I understand only the basic concepts of Web Development.,Beginner
+Web Development,I understand only the basic concepts of Web Development.,Beginner
+Cloud,I completed an introductory course on Cloud.,Beginner
+Machine Learning,I understand only the basic concepts of Machine Learning.,Beginner
+SQL,I can write very basic SQL programs involving subqueries.,Beginner
+Communication,I understand only the basic concepts of Communication.,Beginner
+Data Science,I completed an introductory course on Data Science.,Beginner
+Java,I completed an introductory course on Java.,Beginner
+Java,I understand only the basic concepts of Java.,Beginner
+Machine Learning,I completed an introductory course on Machine Learning.,Beginner
+Java,I completed an introductory course on Java.,Beginner
+Python,I understand only the basic concepts of Python.,Beginner
+Python,I can write very basic Python programs involving printing Hello World.,Beginner
+Cloud,I can write very basic Cloud programs involving basic concepts.,Beginner
+Java,I completed an introductory course on Java.,Beginner
+Communication,I just started learning Communication and can do simple tasks like presentations.,Beginner
+Data Science,I completed an introductory course on Data Science.,Beginner
+Python,I completed an introductory course on Python.,Beginner
+Data Science,I understand only the basic concepts of Data Science.,Beginner
+Cybersecurity,I understand only the basic concepts of Cybersecurity.,Beginner
+Web Development,I completed an introductory course on Web Development.,Beginner
+Data Science,I completed an introductory course on Data Science.,Beginner
+Cybersecurity,I completed an introductory course on Cybersecurity.,Beginner
+SQL,I completed an introductory course on SQL.,Beginner
+Cybersecurity,I just started learning Cybersecurity and can do simple tasks like network basics.,Beginner
+Cybersecurity,I completed an introductory course on Cybersecurity.,Beginner
+Python,I completed an introductory course on Python.,Beginner
+Java,I understand only the basic concepts of Java.,Beginner
+Cybersecurity,I completed an introductory course on Cybersecurity.,Beginner
+Machine Learning,I completed an introductory course on Machine Learning.,Beginner
+Data Science,I completed an introductory course on Data Science.,Beginner
+Web Development,I can write very basic Web Development programs involving REST APIs.,Beginner
+Java,I completed an introductory course on Java.,Beginner
+Communication,I just started learning Communication and can do simple tasks like presentations.,Beginner
+SQL,I just started learning SQL and can do simple tasks like subqueries.,Beginner
+Cybersecurity,I understand only the basic concepts of Cybersecurity.,Beginner
+Cybersecurity,I can write very basic Cybersecurity programs involving network basics.,Beginner
+Data Science,I completed an introductory course on Data Science.,Beginner
+Cloud,I understand only the basic concepts of Cloud.,Beginner
+Machine Learning,I can write very basic Machine Learning programs involving neural networks.,Beginner
+Java,I can write very basic Java programs involving OOP concepts.,Beginner
+Cybersecurity,I understand only the basic concepts of Cybersecurity.,Beginner
+Java,I completed an introductory course on Java.,Beginner
+Web Development,I completed an introductory course on Web Development.,Beginner
+Communication,I understand only the basic concepts of Communication.,Beginner
+SQL,I just started learning SQL and can do simple tasks like INSERT queries.,Beginner
+Web Development,I just started learning Web Development and can do simple tasks like HTML/CSS basics.,Beginner
+Python,I can write very basic Python programs involving automation.,Beginner
+Communication,I understand only the basic concepts of Communication.,Beginner
+Cloud,I just started learning Cloud and can do simple tasks like basic concepts.,Beginner
+Cybersecurity,I understand only the basic concepts of Cybersecurity.,Beginner
+Web Development,I understand only the basic concepts of Web Development.,Beginner
+Data Science,I can write very basic Data Science programs involving data visualization.,Beginner
+Cloud,I understand only the basic concepts of Cloud.,Beginner
+Web Development,I completed an introductory course on Web Development.,Beginner
+Cloud,I can write very basic Cloud programs involving scalability.,Beginner
+Communication,I just started learning Communication and can do simple tasks like introductions.,Beginner
+Cloud,I just started learning Cloud and can do simple tasks like cloud architecture.,Beginner
+Cloud,I can write very basic Cloud programs involving scalability.,Beginner
+Machine Learning,I just started learning Machine Learning and can do simple tasks like neural networks.,Beginner
+Cybersecurity,I can write very basic Cybersecurity programs involving security testing.,Beginner
+Cloud,I understand only the basic concepts of Cloud.,Beginner
+SQL,I understand only the basic concepts of SQL.,Beginner
+Java,I just started learning Java and can do simple tasks like OOP concepts.,Beginner
+Cloud,I understand only the basic concepts of Cloud.,Beginner
+Python,I completed an introductory course on Python.,Beginner
+Data Science,I understand only the basic concepts of Data Science.,Beginner
+Web Development,I can write very basic Web Development programs involving REST APIs.,Beginner
+Communication,I understand only the basic concepts of Communication.,Beginner
+Python,I completed an introductory course on Python.,Beginner
+Machine Learning,I understand only the basic concepts of Machine Learning.,Beginner
+SQL,I can write very basic SQL programs involving subqueries.,Beginner
+Machine Learning,I can write very basic Machine Learning programs involving training models.,Beginner
+Cybersecurity,I just started learning Cybersecurity and can do simple tasks like threat detection.,Beginner
+SQL,I can write very basic SQL programs involving optimizing queries.,Beginner
+Cybersecurity,I just started learning Cybersecurity and can do simple tasks like incident response.,Beginner
+Python,I completed an introductory course on Python.,Beginner
+Web Development,I can write very basic Web Development programs involving deployment.,Beginner
+Cybersecurity,I can write very basic Cybersecurity programs involving threat detection.,Beginner
+SQL,I completed an introductory course on SQL.,Beginner
+Python,I just started learning Python and can do simple tasks like building Flask apps.,Beginner
+Python,I just started learning Python and can do simple tasks like automation.,Beginner
+Data Science,I can write very basic Data Science programs involving exploratory analysis.,Beginner
+Web Development,I understand only the basic concepts of Web Development.,Beginner
+Java,I completed an introductory course on Java.,Beginner
+Communication,I understand only the basic concepts of Communication.,Beginner
+SQL,I can write very basic SQL programs involving INSERT queries.,Beginner
+Python,I can write very basic Python programs involving basic scripts.,Beginner
+Java,I can write very basic Java programs involving enterprise applications.,Beginner
+Web Development,I just started learning Web Development and can do simple tasks like frontend frameworks.,Beginner
+Java,I just started learning Java and can do simple tasks like OOP concepts.,Beginner
+Python,I understand only the basic concepts of Python.,Beginner
+Machine Learning,I just started learning Machine Learning and can do simple tasks like deep learning.,Beginner
+SQL,I understand only the basic concepts of SQL.,Beginner
+Python,I just started learning Python and can do simple tasks like building Flask apps.,Beginner
+Cloud,I understand only the basic concepts of Cloud.,Beginner
+Cybersecurity,I completed an introductory course on Cybersecurity.,Beginner
+Machine Learning,I completed an introductory course on Machine Learning.,Beginner
+Communication,I completed an introductory course on Communication.,Beginner
+Communication,I can write very basic Communication programs involving technical communication.,Beginner
+Cloud,I just started learning Cloud and can do simple tasks like basic concepts.,Beginner
+Java,I can write very basic Java programs involving JVM tuning.,Beginner
+Data Science,I understand only the basic concepts of Data Science.,Beginner
+Data Science,I understand only the basic concepts of Data Science.,Beginner
+Java,I just started learning Java and can do simple tasks like enterprise applications.,Beginner
+Web Development,I understand only the basic concepts of Web Development.,Beginner
+Data Science,I can write very basic Data Science programs involving feature engineering.,Beginner
+Python,I just started learning Python and can do simple tasks like data analysis with pandas.,Beginner
+Java,I just started learning Java and can do simple tasks like OOP concepts.,Beginner
+Machine Learning,I understand only the basic concepts of Machine Learning.,Beginner
+SQL,I just started learning SQL and can do simple tasks like subqueries.,Beginner
+Cloud,I understand only the basic concepts of Cloud.,Beginner
+Machine Learning,I just started learning Machine Learning and can do simple tasks like neural networks.,Beginner
+Python,I just started learning Python and can do simple tasks like data analysis with pandas.,Beginner
+Data Science,I completed an introductory course on Data Science.,Beginner
+Java,I completed an introductory course on Java.,Beginner
+Machine Learning,I completed an introductory course on Machine Learning.,Beginner
+Data Science,I just started learning Data Science and can do simple tasks like feature engineering.,Beginner
+Cybersecurity,I just started learning Cybersecurity and can do simple tasks like network basics.,Beginner
+Python,I just started learning Python and can do simple tasks like data analysis with pandas.,Beginner
+Communication,I understand only the basic concepts of Communication.,Beginner
+Cybersecurity,I just started learning Cybersecurity and can do simple tasks like incident response.,Beginner
+Data Science,I completed an introductory course on Data Science.,Beginner
+Cloud,I understand only the basic concepts of Cloud.,Beginner
+Machine Learning,I understand only the basic concepts of Machine Learning.,Beginner
+Machine Learning,I just started learning Machine Learning and can do simple tasks like linear regression.,Beginner
+Machine Learning,I completed an introductory course on Machine Learning.,Beginner
+Communication,I understand only the basic concepts of Communication.,Beginner
+Java,I just started learning Java and can do simple tasks like multithreading.,Beginner
+Web Development,I completed an introductory course on Web Development.,Beginner
+Java,I completed an introductory course on Java.,Beginner
+Python,I understand only the basic concepts of Python.,Beginner
+Python,I can write very basic Python programs involving basic scripts.,Beginner
+Java,I just started learning Java and can do simple tasks like multithreading.,Beginner
+Cybersecurity,I understand only the basic concepts of Cybersecurity.,Beginner
+Cybersecurity,I understand only the basic concepts of Cybersecurity.,Beginner
+Communication,I completed an introductory course on Communication.,Beginner
+Cybersecurity,I completed an introductory course on Cybersecurity.,Beginner
+Java,I can write very basic Java programs involving Spring Boot apps.,Beginner
+Data Science,I just started learning Data Science and can do simple tasks like data visualization.,Beginner
+Data Science,I understand only the basic concepts of Data Science.,Beginner
+Web Development,I understand only the basic concepts of Web Development.,Beginner
+Data Science,I understand only the basic concepts of Data Science.,Beginner
+Java,I just started learning Java and can do simple tasks like Spring Boot apps.,Beginner
+Cloud,I can write very basic Cloud programs involving serverless computing.,Beginner
+Python,I just started learning Python and can do simple tasks like basic scripts.,Beginner
+Java,I completed an introductory course on Java.,Beginner
+Cybersecurity,I can write very basic Cybersecurity programs involving incident response.,Beginner
+Python,I just started learning Python and can do simple tasks like automation.,Beginner
+Web Development,I completed an introductory course on Web Development.,Beginner
+Web Development,I just started learning Web Development and can do simple tasks like REST APIs.,Beginner
+Communication,I completed an introductory course on Communication.,Beginner
+Communication,I completed an introductory course on Communication.,Beginner
+Cybersecurity,I completed an introductory course on Cybersecurity.,Beginner
+Python,I completed an introductory course on Python.,Beginner
+Java,I completed an introductory course on Java.,Beginner
+Data Science,I can write very basic Data Science programs involving model training.,Beginner
+Java,I just started learning Java and can do simple tasks like enterprise applications.,Beginner
+Java,I understand only the basic concepts of Java.,Beginner
+Web Development,I can write very basic Web Development programs involving REST APIs.,Beginner
+Communication,I can write very basic Communication programs involving presentations.,Beginner
+SQL,I completed an introductory course on SQL.,Beginner
+Machine Learning,I understand only the basic concepts of Machine Learning.,Beginner
+SQL,I completed an introductory course on SQL.,Beginner
+Machine Learning,I just started learning Machine Learning and can do simple tasks like linear regression.,Beginner
+Python,I can write very basic Python programs involving printing Hello World.,Beginner
+Machine Learning,I completed an introductory course on Machine Learning.,Beginner
+Data Science,I can write very basic Data Science programs involving deep learning.,Beginner
+Machine Learning,I completed an introductory course on Machine Learning.,Beginner
+Communication,I can write very basic Communication programs involving mentoring.,Beginner
+Communication,I just started learning Communication and can do simple tasks like mentoring.,Beginner
+SQL,I understand only the basic concepts of SQL.,Beginner
+SQL,I just started learning SQL and can do simple tasks like optimizing queries.,Beginner
+SQL,I just started learning SQL and can do simple tasks like subqueries.,Beginner
+Web Development,I can write very basic Web Development programs involving HTML/CSS basics.,Beginner
+Python,I just started learning Python and can do simple tasks like basic scripts.,Beginner
+Python,I understand only the basic concepts of Python.,Beginner
+SQL,I understand only the basic concepts of SQL.,Beginner
+Data Science,I understand only the basic concepts of Data Science.,Beginner
+Web Development,I understand only the basic concepts of Web Development.,Beginner
+SQL,I just started learning SQL and can do simple tasks like subqueries.,Beginner
+Data Science,I just started learning Data Science and can do simple tasks like deep learning.,Beginner
+Machine Learning,I just started learning Machine Learning and can do simple tasks like NLP models.,Beginner
+Java,I understand only the basic concepts of Java.,Beginner
+Data Science,I just started learning Data Science and can do simple tasks like feature engineering.,Beginner
+Cybersecurity,I completed an introductory course on Cybersecurity.,Beginner
+Machine Learning,I understand only the basic concepts of Machine Learning.,Beginner
+Python,I just started learning Python and can do simple tasks like building Flask apps.,Beginner
+Java,I completed an introductory course on Java.,Beginner
+SQL,I completed an introductory course on SQL.,Beginner
+Cloud,I understand only the basic concepts of Cloud.,Beginner
+Java,I can write very basic Java programs involving JVM tuning.,Beginner
+Cloud,I understand only the basic concepts of Cloud.,Beginner
+Machine Learning,I completed an introductory course on Machine Learning.,Beginner
+Cybersecurity,I just started learning Cybersecurity and can do simple tasks like encryption.,Beginner
+Communication,I completed an introductory course on Communication.,Beginner
+Communication,I can write very basic Communication programs involving presentations.,Beginner
+Cybersecurity,I understand only the basic concepts of Cybersecurity.,Beginner
+SQL,I can write very basic SQL programs involving SELECT queries.,Beginner
+Data Science,I understand only the basic concepts of Data Science.,Beginner
+Cloud,I just started learning Cloud and can do simple tasks like serverless computing.,Beginner
+Web Development,I just started learning Web Development and can do simple tasks like REST APIs.,Beginner
+Machine Learning,I can write very basic Machine Learning programs involving deep learning.,Beginner
+Web Development,I understand only the basic concepts of Web Development.,Beginner
+Communication,I just started learning Communication and can do simple tasks like technical communication.,Beginner
+Java,I understand only the basic concepts of Java.,Beginner
+Java,I completed an introductory course on Java.,Beginner
+Web Development,I just started learning Web Development and can do simple tasks like deployment.,Beginner
+Java,I understand only the basic concepts of Java.,Beginner
+Java,I understand only the basic concepts of Java.,Beginner
+Machine Learning,I completed an introductory course on Machine Learning.,Beginner
+Machine Learning,I just started learning Machine Learning and can do simple tasks like NLP models.,Beginner
+Web Development,I just started learning Web Development and can do simple tasks like full-stack apps.,Beginner
+Web Development,I can write very basic Web Development programs involving deployment.,Beginner
+Cloud,I understand only the basic concepts of Cloud.,Beginner
+Cloud,I just started learning Cloud and can do simple tasks like deploying apps.,Beginner
+Communication,I just started learning Communication and can do simple tasks like introductions.,Beginner
+Java,I just started learning Java and can do simple tasks like JVM tuning.,Beginner
+Data Science,I completed an introductory course on Data Science.,Beginner
+Data Science,I understand only the basic concepts of Data Science.,Beginner
+Cloud,I understand only the basic concepts of Cloud.,Beginner
+Cybersecurity,I completed an introductory course on Cybersecurity.,Beginner
+Data Science,I can write very basic Data Science programs involving deep learning.,Beginner
+Machine Learning,I can write very basic Machine Learning programs involving training models.,Beginner
+Python,I understand only the basic concepts of Python.,Beginner
+Cybersecurity,I completed an introductory course on Cybersecurity.,Beginner
+Web Development,I can write very basic Web Development programs involving frontend frameworks.,Beginner
+Web Development,I understand only the basic concepts of Web Development.,Beginner
+Web Development,I can write very basic Web Development programs involving full-stack apps.,Beginner
+Web Development,I understand only the basic concepts of Web Development.,Beginner
+Python,I understand only the basic concepts of Python.,Beginner
+Machine Learning,I completed an introductory course on Machine Learning.,Beginner
+Machine Learning,I understand only the basic concepts of Machine Learning.,Beginner
+Python,I just started learning Python and can do simple tasks like building Flask apps.,Beginner
+Web Development,I understand only the basic concepts of Web Development.,Beginner
+Machine Learning,I just started learning Machine Learning and can do simple tasks like linear regression.,Beginner
+Python,I completed an introductory course on Python.,Beginner
+Web Development,I just started learning Web Development and can do simple tasks like REST APIs.,Beginner
+Cloud,I completed an introductory course on Cloud.,Beginner
+Cloud,I just started learning Cloud and can do simple tasks like cloud architecture.,Beginner
+Cloud,I just started learning Cloud and can do simple tasks like scalability.,Beginner
+Cybersecurity,I completed an introductory course on Cybersecurity.,Beginner
+Java,I just started learning Java and can do simple tasks like JVM tuning.,Beginner
+Communication,I can write very basic Communication programs involving technical communication.,Beginner
+Cybersecurity,I just started learning Cybersecurity and can do simple tasks like security testing.,Beginner
+Web Development,I just started learning Web Development and can do simple tasks like deployment.,Beginner
+Communication,I completed an introductory course on Communication.,Beginner
+Machine Learning,I just started learning Machine Learning and can do simple tasks like NLP models.,Beginner
+Python,I understand only the basic concepts of Python.,Beginner
+Python,I understand only the basic concepts of Python.,Beginner
+Cybersecurity,I just started learning Cybersecurity and can do simple tasks like security testing.,Beginner
+Python,I understand only the basic concepts of Python.,Beginner
+Web Development,I can write very basic Web Development programs involving deployment.,Beginner
+Machine Learning,I completed an introductory course on Machine Learning.,Beginner
+Cloud,I just started learning Cloud and can do simple tasks like cloud architecture.,Beginner
+Python,I completed an introductory course on Python.,Beginner
+Machine Learning,I can write very basic Machine Learning programs involving deep learning.,Beginner
+Communication,I just started learning Communication and can do simple tasks like technical communication.,Beginner
+Java,I understand only the basic concepts of Java.,Beginner
+Cybersecurity,I understand only the basic concepts of Cybersecurity.,Beginner
+Python,I can write very basic Python programs involving basic scripts.,Beginner
+Web Development,I can write very basic Web Development programs involving HTML/CSS basics.,Beginner
+Python,I just started learning Python and can do simple tasks like data analysis with pandas.,Beginner
+Python,I completed an introductory course on Python.,Beginner
+Web Development,I completed an introductory course on Web Development.,Beginner
+Java,I just started learning Java and can do simple tasks like OOP concepts.,Beginner
+Data Science,I can write very basic Data Science programs involving model training.,Beginner
+Communication,I just started learning Communication and can do simple tasks like mentoring.,Beginner
+Java,I can write very basic Java programs involving enterprise applications.,Beginner
+Communication,I just started learning Communication and can do simple tasks like introductions.,Beginner
+Cybersecurity,I just started learning Cybersecurity and can do simple tasks like incident response.,Beginner
+Web Development,I just started learning Web Development and can do simple tasks like HTML/CSS basics.,Beginner
+SQL,I completed an introductory course on SQL.,Beginner
+Machine Learning,I can write very basic Machine Learning programs involving linear regression.,Beginner
+SQL,I understand only the basic concepts of SQL.,Beginner
+Java,I just started learning Java and can do simple tasks like multithreading.,Beginner
+Cloud,I can write very basic Cloud programs involving deploying apps.,Beginner
+Cloud,I can write very basic Cloud programs involving basic concepts.,Beginner
+Data Science,"I use Data Science regularly in my projects, including deep learning.",Intermediate
+Web Development,I understand core Web Development concepts and apply them in real projects.,Intermediate
+Cloud,I understand core Cloud concepts and apply them in real projects.,Intermediate
+Web Development,I understand core Web Development concepts and apply them in real projects.,Intermediate
+Communication,"I use Communication regularly in my projects, including mentoring.",Intermediate
+Machine Learning,I can build applications with Machine Learning using NLP models.,Intermediate
+Web Development,I write optimized code in Web Development and work with deployment.,Intermediate
+Cybersecurity,I understand core Cybersecurity concepts and apply them in real projects.,Intermediate
+Python,"I use Python regularly in my projects, including printing Hello World.",Intermediate
+Python,I write optimized code in Python and work with printing Hello World.,Intermediate
+Cybersecurity,"I use Cybersecurity regularly in my projects, including security testing.",Intermediate
+Python,I understand core Python concepts and apply them in real projects.,Intermediate
+Data Science,"I use Data Science regularly in my projects, including data visualization.",Intermediate
+Data Science,"I use Data Science regularly in my projects, including model training.",Intermediate
+Data Science,I understand core Data Science concepts and apply them in real projects.,Intermediate
+Cybersecurity,I write optimized code in Cybersecurity and work with encryption.,Intermediate
+Data Science,"I use Data Science regularly in my projects, including deep learning.",Intermediate
+SQL,"I use SQL regularly in my projects, including INSERT queries.",Intermediate
+Web Development,I can build applications with Web Development using deployment.,Intermediate
+SQL,I understand core SQL concepts and apply them in real projects.,Intermediate
+Data Science,I can build applications with Data Science using exploratory analysis.,Intermediate
+Cloud,I understand core Cloud concepts and apply them in real projects.,Intermediate
+SQL,I write optimized code in SQL and work with joins.,Intermediate
+Data Science,I can build applications with Data Science using data visualization.,Intermediate
+Cybersecurity,"I use Cybersecurity regularly in my projects, including network basics.",Intermediate
+Web Development,"I use Web Development regularly in my projects, including deployment.",Intermediate
+SQL,I understand core SQL concepts and apply them in real projects.,Intermediate
+Data Science,I write optimized code in Data Science and work with exploratory analysis.,Intermediate
+Web Development,I understand core Web Development concepts and apply them in real projects.,Intermediate
+Machine Learning,I can build applications with Machine Learning using deep learning.,Intermediate
+Python,I can build applications with Python using data analysis with pandas.,Intermediate
+Cloud,I write optimized code in Cloud and work with deploying apps.,Intermediate
+Communication,I understand core Communication concepts and apply them in real projects.,Intermediate
+Cybersecurity,I write optimized code in Cybersecurity and work with network basics.,Intermediate
+Data Science,I write optimized code in Data Science and work with data visualization.,Intermediate
+Java,I understand core Java concepts and apply them in real projects.,Intermediate
+Machine Learning,I can build applications with Machine Learning using NLP models.,Intermediate
+Python,"I use Python regularly in my projects, including automation.",Intermediate
+Machine Learning,I understand core Machine Learning concepts and apply them in real projects.,Intermediate
+Cybersecurity,I write optimized code in Cybersecurity and work with encryption.,Intermediate
+Cloud,I write optimized code in Cloud and work with basic concepts.,Intermediate
+Communication,I write optimized code in Communication and work with presentations.,Intermediate
+Cloud,I can build applications with Cloud using serverless computing.,Intermediate
+Machine Learning,I can build applications with Machine Learning using linear regression.,Intermediate
+Data Science,I can build applications with Data Science using exploratory analysis.,Intermediate
+Cybersecurity,I understand core Cybersecurity concepts and apply them in real projects.,Intermediate
+Web Development,I understand core Web Development concepts and apply them in real projects.,Intermediate
+Python,I can build applications with Python using printing Hello World.,Intermediate
+Web Development,I write optimized code in Web Development and work with frontend frameworks.,Intermediate
+Machine Learning,I understand core Machine Learning concepts and apply them in real projects.,Intermediate
+Web Development,I write optimized code in Web Development and work with full-stack apps.,Intermediate
+Machine Learning,I write optimized code in Machine Learning and work with NLP models.,Intermediate
+Machine Learning,I write optimized code in Machine Learning and work with linear regression.,Intermediate
+Machine Learning,I write optimized code in Machine Learning and work with deep learning.,Intermediate
+Java,I write optimized code in Java and work with enterprise applications.,Intermediate
+Data Science,I write optimized code in Data Science and work with data visualization.,Intermediate
+Web Development,"I use Web Development regularly in my projects, including deployment.",Intermediate
+Java,I understand core Java concepts and apply them in real projects.,Intermediate
+Communication,I understand core Communication concepts and apply them in real projects.,Intermediate
+Machine Learning,"I use Machine Learning regularly in my projects, including neural networks.",Intermediate
+Cloud,I understand core Cloud concepts and apply them in real projects.,Intermediate
+Web Development,I write optimized code in Web Development and work with deployment.,Intermediate
+Python,I can build applications with Python using data analysis with pandas.,Intermediate
+Web Development,I write optimized code in Web Development and work with deployment.,Intermediate
+Cloud,I can build applications with Cloud using serverless computing.,Intermediate
+Java,"I use Java regularly in my projects, including OOP concepts.",Intermediate
+SQL,"I use SQL regularly in my projects, including joins.",Intermediate
+Cloud,I write optimized code in Cloud and work with cloud architecture.,Intermediate
+Cybersecurity,I can build applications with Cybersecurity using threat detection.,Intermediate
+Cloud,I can build applications with Cloud using basic concepts.,Intermediate
+Machine Learning,I understand core Machine Learning concepts and apply them in real projects.,Intermediate
+SQL,I understand core SQL concepts and apply them in real projects.,Intermediate
+Data Science,"I use Data Science regularly in my projects, including exploratory analysis.",Intermediate
+Data Science,I can build applications with Data Science using deep learning.,Intermediate
+Cybersecurity,I write optimized code in Cybersecurity and work with network basics.,Intermediate
+Communication,I can build applications with Communication using team collaboration.,Intermediate
+Python,I can build applications with Python using building Flask apps.,Intermediate
+Cybersecurity,I write optimized code in Cybersecurity and work with incident response.,Intermediate
+SQL,"I use SQL regularly in my projects, including subqueries.",Intermediate
+Communication,I write optimized code in Communication and work with technical communication.,Intermediate
+Cybersecurity,I write optimized code in Cybersecurity and work with threat detection.,Intermediate
+Cloud,"I use Cloud regularly in my projects, including deploying apps.",Intermediate
+Cloud,I write optimized code in Cloud and work with scalability.,Intermediate
+Web Development,I understand core Web Development concepts and apply them in real projects.,Intermediate
+Web Development,I can build applications with Web Development using HTML/CSS basics.,Intermediate
+Cybersecurity,I write optimized code in Cybersecurity and work with network basics.,Intermediate
+Cybersecurity,I can build applications with Cybersecurity using threat detection.,Intermediate
+Java,I understand core Java concepts and apply them in real projects.,Intermediate
+Web Development,I understand core Web Development concepts and apply them in real projects.,Intermediate
+Web Development,I can build applications with Web Development using full-stack apps.,Intermediate
+Data Science,I can build applications with Data Science using deep learning.,Intermediate
+SQL,I write optimized code in SQL and work with SELECT queries.,Intermediate
+Cloud,I understand core Cloud concepts and apply them in real projects.,Intermediate
+Data Science,I understand core Data Science concepts and apply them in real projects.,Intermediate
+Communication,I can build applications with Communication using presentations.,Intermediate
+Machine Learning,"I use Machine Learning regularly in my projects, including neural networks.",Intermediate
+Java,I can build applications with Java using enterprise applications.,Intermediate
+Communication,"I use Communication regularly in my projects, including presentations.",Intermediate
+Web Development,I understand core Web Development concepts and apply them in real projects.,Intermediate
+Cybersecurity,I understand core Cybersecurity concepts and apply them in real projects.,Intermediate
+SQL,I can build applications with SQL using optimizing queries.,Intermediate
+Data Science,"I use Data Science regularly in my projects, including exploratory analysis.",Intermediate
+Machine Learning,I understand core Machine Learning concepts and apply them in real projects.,Intermediate
+Java,I write optimized code in Java and work with JVM tuning.,Intermediate
+Communication,I can build applications with Communication using technical communication.,Intermediate
+Data Science,"I use Data Science regularly in my projects, including data visualization.",Intermediate
+Cybersecurity,I understand core Cybersecurity concepts and apply them in real projects.,Intermediate
+Python,I understand core Python concepts and apply them in real projects.,Intermediate
+Web Development,I can build applications with Web Development using deployment.,Intermediate
+Communication,"I use Communication regularly in my projects, including introductions.",Intermediate
+Java,"I use Java regularly in my projects, including JVM tuning.",Intermediate
+Web Development,I understand core Web Development concepts and apply them in real projects.,Intermediate
+Python,I understand core Python concepts and apply them in real projects.,Intermediate
+Web Development,"I use Web Development regularly in my projects, including HTML/CSS basics.",Intermediate
+Machine Learning,I write optimized code in Machine Learning and work with deep learning.,Intermediate
+Java,"I use Java regularly in my projects, including Spring Boot apps.",Intermediate
+SQL,I understand core SQL concepts and apply them in real projects.,Intermediate
+Python,I can build applications with Python using printing Hello World.,Intermediate
+Data Science,I write optimized code in Data Science and work with exploratory analysis.,Intermediate
+Python,"I use Python regularly in my projects, including building Flask apps.",Intermediate
+SQL,I write optimized code in SQL and work with INSERT queries.,Intermediate
+Cloud,I can build applications with Cloud using serverless computing.,Intermediate
+Java,"I use Java regularly in my projects, including OOP concepts.",Intermediate
+Communication,I write optimized code in Communication and work with team collaboration.,Intermediate
+Data Science,I can build applications with Data Science using model training.,Intermediate
+SQL,I understand core SQL concepts and apply them in real projects.,Intermediate
+Web Development,"I use Web Development regularly in my projects, including deployment.",Intermediate
+Data Science,"I use Data Science regularly in my projects, including deep learning.",Intermediate
+Data Science,I can build applications with Data Science using feature engineering.,Intermediate
+SQL,I understand core SQL concepts and apply them in real projects.,Intermediate
+Data Science,I write optimized code in Data Science and work with data visualization.,Intermediate
+Machine Learning,I write optimized code in Machine Learning and work with NLP models.,Intermediate
+Machine Learning,I write optimized code in Machine Learning and work with linear regression.,Intermediate
+Web Development,I understand core Web Development concepts and apply them in real projects.,Intermediate
+SQL,I write optimized code in SQL and work with subqueries.,Intermediate
+Data Science,I understand core Data Science concepts and apply them in real projects.,Intermediate
+Communication,I understand core Communication concepts and apply them in real projects.,Intermediate
+Java,I can build applications with Java using multithreading.,Intermediate
+Cloud,I understand core Cloud concepts and apply them in real projects.,Intermediate
+Cloud,"I use Cloud regularly in my projects, including serverless computing.",Intermediate
+Web Development,I understand core Web Development concepts and apply them in real projects.,Intermediate
+Communication,I understand core Communication concepts and apply them in real projects.,Intermediate
+Data Science,"I use Data Science regularly in my projects, including deep learning.",Intermediate
+Web Development,I can build applications with Web Development using full-stack apps.,Intermediate
+Communication,I write optimized code in Communication and work with technical communication.,Intermediate
+Communication,I understand core Communication concepts and apply them in real projects.,Intermediate
+Data Science,I understand core Data Science concepts and apply them in real projects.,Intermediate
+SQL,I write optimized code in SQL and work with joins.,Intermediate
+Cybersecurity,I understand core Cybersecurity concepts and apply them in real projects.,Intermediate
+Communication,I write optimized code in Communication and work with team collaboration.,Intermediate
+Cloud,"I use Cloud regularly in my projects, including basic concepts.",Intermediate
+Python,I understand core Python concepts and apply them in real projects.,Intermediate
+Cybersecurity,"I use Cybersecurity regularly in my projects, including encryption.",Intermediate
+Data Science,I can build applications with Data Science using deep learning.,Intermediate
+Data Science,I write optimized code in Data Science and work with feature engineering.,Intermediate
+Web Development,I write optimized code in Web Development and work with full-stack apps.,Intermediate
+Web Development,I can build applications with Web Development using deployment.,Intermediate
+Cloud,"I use Cloud regularly in my projects, including scalability.",Intermediate
+Java,"I use Java regularly in my projects, including multithreading.",Intermediate
+Cloud,"I use Cloud regularly in my projects, including basic concepts.",Intermediate
+Java,I write optimized code in Java and work with JVM tuning.,Intermediate
+Cybersecurity,"I use Cybersecurity regularly in my projects, including security testing.",Intermediate
+Communication,I understand core Communication concepts and apply them in real projects.,Intermediate
+Java,I write optimized code in Java and work with Spring Boot apps.,Intermediate
+Data Science,I write optimized code in Data Science and work with feature engineering.,Intermediate
+Cloud,"I use Cloud regularly in my projects, including basic concepts.",Intermediate
+Java,I write optimized code in Java and work with enterprise applications.,Intermediate
+Web Development,I understand core Web Development concepts and apply them in real projects.,Intermediate
+Python,I write optimized code in Python and work with data analysis with pandas.,Intermediate
+Web Development,"I use Web Development regularly in my projects, including HTML/CSS basics.",Intermediate
+SQL,I write optimized code in SQL and work with SELECT queries.,Intermediate
+Machine Learning,I write optimized code in Machine Learning and work with linear regression.,Intermediate
+Machine Learning,I understand core Machine Learning concepts and apply them in real projects.,Intermediate
+Machine Learning,I can build applications with Machine Learning using NLP models.,Intermediate
+Cloud,"I use Cloud regularly in my projects, including scalability.",Intermediate
+Machine Learning,I understand core Machine Learning concepts and apply them in real projects.,Intermediate
+Cybersecurity,I write optimized code in Cybersecurity and work with security testing.,Intermediate
+SQL,"I use SQL regularly in my projects, including optimizing queries.",Intermediate
+Java,I understand core Java concepts and apply them in real projects.,Intermediate
+Data Science,"I use Data Science regularly in my projects, including exploratory analysis.",Intermediate
+Web Development,"I use Web Development regularly in my projects, including REST APIs.",Intermediate
+Web Development,I write optimized code in Web Development and work with HTML/CSS basics.,Intermediate
+Machine Learning,I understand core Machine Learning concepts and apply them in real projects.,Intermediate
+Cybersecurity,"I use Cybersecurity regularly in my projects, including incident response.",Intermediate
+Cloud,"I use Cloud regularly in my projects, including scalability.",Intermediate
+Cybersecurity,I write optimized code in Cybersecurity and work with incident response.,Intermediate
+Cybersecurity,"I use Cybersecurity regularly in my projects, including network basics.",Intermediate
+SQL,I understand core SQL concepts and apply them in real projects.,Intermediate
+Data Science,"I use Data Science regularly in my projects, including deep learning.",Intermediate
+Cybersecurity,"I use Cybersecurity regularly in my projects, including encryption.",Intermediate
+Web Development,I can build applications with Web Development using deployment.,Intermediate
+Web Development,I understand core Web Development concepts and apply them in real projects.,Intermediate
+SQL,"I use SQL regularly in my projects, including INSERT queries.",Intermediate
+Python,"I use Python regularly in my projects, including building Flask apps.",Intermediate
+Communication,I can build applications with Communication using presentations.,Intermediate
+Cybersecurity,I understand core Cybersecurity concepts and apply them in real projects.,Intermediate
+Cybersecurity,"I use Cybersecurity regularly in my projects, including encryption.",Intermediate
+Web Development,I understand core Web Development concepts and apply them in real projects.,Intermediate
+Web Development,I can build applications with Web Development using HTML/CSS basics.,Intermediate
+Python,"I use Python regularly in my projects, including basic scripts.",Intermediate
+Cloud,I understand core Cloud concepts and apply them in real projects.,Intermediate
+Java,I can build applications with Java using multithreading.,Intermediate
+Web Development,I write optimized code in Web Development and work with full-stack apps.,Intermediate
+Web Development,I can build applications with Web Development using deployment.,Intermediate
+Data Science,I can build applications with Data Science using model training.,Intermediate
+Python,I understand core Python concepts and apply them in real projects.,Intermediate
+Communication,I can build applications with Communication using presentations.,Intermediate
+Java,I can build applications with Java using OOP concepts.,Intermediate
+SQL,I write optimized code in SQL and work with INSERT queries.,Intermediate
+Machine Learning,"I use Machine Learning regularly in my projects, including deep learning.",Intermediate
+Cybersecurity,I write optimized code in Cybersecurity and work with encryption.,Intermediate
+Machine Learning,"I use Machine Learning regularly in my projects, including NLP models.",Intermediate
+Cybersecurity,I write optimized code in Cybersecurity and work with network basics.,Intermediate
+SQL,"I use SQL regularly in my projects, including INSERT queries.",Intermediate
+Java,I understand core Java concepts and apply them in real projects.,Intermediate
+Web Development,I write optimized code in Web Development and work with full-stack apps.,Intermediate
+Cybersecurity,I understand core Cybersecurity concepts and apply them in real projects.,Intermediate
+Python,I can build applications with Python using automation.,Intermediate
+Cloud,I write optimized code in Cloud and work with basic concepts.,Intermediate
+Web Development,I can build applications with Web Development using full-stack apps.,Intermediate
+Cloud,I understand core Cloud concepts and apply them in real projects.,Intermediate
+Cloud,"I use Cloud regularly in my projects, including serverless computing.",Intermediate
+Web Development,I can build applications with Web Development using full-stack apps.,Intermediate
+Python,I can build applications with Python using data analysis with pandas.,Intermediate
+Data Science,I understand core Data Science concepts and apply them in real projects.,Intermediate
+Java,I write optimized code in Java and work with OOP concepts.,Intermediate
+Cloud,"I use Cloud regularly in my projects, including basic concepts.",Intermediate
+Data Science,"I use Data Science regularly in my projects, including model training.",Intermediate
+Cybersecurity,I understand core Cybersecurity concepts and apply them in real projects.,Intermediate
+Cloud,I understand core Cloud concepts and apply them in real projects.,Intermediate
+Cybersecurity,"I use Cybersecurity regularly in my projects, including encryption.",Intermediate
+SQL,"I use SQL regularly in my projects, including optimizing queries.",Intermediate
+Web Development,I write optimized code in Web Development and work with full-stack apps.,Intermediate
+Python,I write optimized code in Python and work with data analysis with pandas.,Intermediate
+Web Development,I can build applications with Web Development using HTML/CSS basics.,Intermediate
+Machine Learning,I can build applications with Machine Learning using NLP models.,Intermediate
+Java,I write optimized code in Java and work with JVM tuning.,Intermediate
+Communication,I can build applications with Communication using technical communication.,Intermediate
+Python,I write optimized code in Python and work with automation.,Intermediate
+Machine Learning,I understand core Machine Learning concepts and apply them in real projects.,Intermediate
+Communication,"I use Communication regularly in my projects, including presentations.",Intermediate
+Java,"I use Java regularly in my projects, including OOP concepts.",Intermediate
+SQL,I can build applications with SQL using INSERT queries.,Intermediate
+Communication,I write optimized code in Communication and work with mentoring.,Intermediate
+Cloud,"I use Cloud regularly in my projects, including basic concepts.",Intermediate
+Communication,I understand core Communication concepts and apply them in real projects.,Intermediate
+Data Science,I understand core Data Science concepts and apply them in real projects.,Intermediate
+Java,"I use Java regularly in my projects, including OOP concepts.",Intermediate
+Cloud,"I use Cloud regularly in my projects, including cloud architecture.",Intermediate
+SQL,I understand core SQL concepts and apply them in real projects.,Intermediate
+Communication,I can build applications with Communication using team collaboration.,Intermediate
+Java,"I use Java regularly in my projects, including JVM tuning.",Intermediate
+Cloud,I can build applications with Cloud using serverless computing.,Intermediate
+Data Science,"I use Data Science regularly in my projects, including data visualization.",Intermediate
+Java,I write optimized code in Java and work with JVM tuning.,Intermediate
+Web Development,I write optimized code in Web Development and work with frontend frameworks.,Intermediate
+Cloud,I write optimized code in Cloud and work with scalability.,Intermediate
+Python,I write optimized code in Python and work with basic scripts.,Intermediate
+Cybersecurity,"I use Cybersecurity regularly in my projects, including threat detection.",Intermediate
+Java,I understand core Java concepts and apply them in real projects.,Intermediate
+Cloud,I can build applications with Cloud using serverless computing.,Intermediate
+Communication,"I use Communication regularly in my projects, including mentoring.",Intermediate
+Python,"I use Python regularly in my projects, including printing Hello World.",Intermediate
+Cloud,I write optimized code in Cloud and work with deploying apps.,Intermediate
+Cybersecurity,I write optimized code in Cybersecurity and work with encryption.,Intermediate
+Cloud,I write optimized code in Cloud and work with cloud architecture.,Intermediate
+Web Development,I can build applications with Web Development using deployment.,Intermediate
+SQL,I can build applications with SQL using optimizing queries.,Intermediate
+Communication,I can build applications with Communication using mentoring.,Intermediate
+Cybersecurity,I understand core Cybersecurity concepts and apply them in real projects.,Intermediate
+Python,I write optimized code in Python and work with data analysis with pandas.,Intermediate
+Web Development,I write optimized code in Web Development and work with full-stack apps.,Intermediate
+SQL,"I use SQL regularly in my projects, including joins.",Intermediate
+Python,I can build applications with Python using basic scripts.,Intermediate
+Data Science,"I use Data Science regularly in my projects, including exploratory analysis.",Intermediate
+Python,I can build applications with Python using building Flask apps.,Intermediate
+Communication,I understand core Communication concepts and apply them in real projects.,Intermediate
+Data Science,I understand core Data Science concepts and apply them in real projects.,Intermediate
+Machine Learning,"I use Machine Learning regularly in my projects, including deep learning.",Intermediate
+Data Science,"I use Data Science regularly in my projects, including exploratory analysis.",Intermediate
+Cloud,"I use Cloud regularly in my projects, including scalability.",Intermediate
+SQL,I can build applications with SQL using optimizing queries.,Intermediate
+SQL,I understand core SQL concepts and apply them in real projects.,Intermediate
+Cybersecurity,"I use Cybersecurity regularly in my projects, including security testing.",Intermediate
+Cybersecurity,I write optimized code in Cybersecurity and work with incident response.,Intermediate
+Cybersecurity,I can build applications with Cybersecurity using network basics.,Intermediate
+Java,"I use Java regularly in my projects, including multithreading.",Intermediate
+Communication,"I use Communication regularly in my projects, including technical communication.",Intermediate
+Cybersecurity,I write optimized code in Cybersecurity and work with threat detection.,Intermediate
+Data Science,I can build applications with Data Science using data visualization.,Intermediate
+Web Development,"I use Web Development regularly in my projects, including full-stack apps.",Intermediate
+Data Science,"I use Data Science regularly in my projects, including data visualization.",Intermediate
+Cybersecurity,I can build applications with Cybersecurity using network basics.,Intermediate
+Java,I write optimized code in Java and work with enterprise applications.,Intermediate
+Communication,I write optimized code in Communication and work with technical communication.,Intermediate
+Machine Learning,I can build applications with Machine Learning using neural networks.,Intermediate
+Cybersecurity,"I use Cybersecurity regularly in my projects, including incident response.",Intermediate
+Cybersecurity,"I use Cybersecurity regularly in my projects, including encryption.",Intermediate
+Python,I write optimized code in Python and work with printing Hello World.,Intermediate
+Machine Learning,I can build applications with Machine Learning using deep learning.,Intermediate
+Web Development,I can build applications with Web Development using frontend frameworks.,Intermediate
+SQL,I write optimized code in SQL and work with subqueries.,Intermediate
+Data Science,I can build applications with Data Science using deep learning.,Intermediate
+Data Science,I can build applications with Data Science using feature engineering.,Intermediate
+Data Science,I understand core Data Science concepts and apply them in real projects.,Intermediate
+Machine Learning,"I use Machine Learning regularly in my projects, including training models.",Intermediate
+Cybersecurity,I understand core Cybersecurity concepts and apply them in real projects.,Intermediate
+Communication,I write optimized code in Communication and work with team collaboration.,Intermediate
+Java,I can build applications with Java using enterprise applications.,Intermediate
+SQL,I can build applications with SQL using subqueries.,Intermediate
+Machine Learning,I write optimized code in Machine Learning and work with training models.,Intermediate
+Data Science,I write optimized code in Data Science and work with feature engineering.,Intermediate
+Cybersecurity,"I use Cybersecurity regularly in my projects, including network basics.",Intermediate
+Python,I write optimized code in Python and work with printing Hello World.,Intermediate
+Cloud,I can build applications with Cloud using scalability.,Intermediate
+Cybersecurity,I write optimized code in Cybersecurity and work with encryption.,Intermediate
+Cybersecurity,I understand core Cybersecurity concepts and apply them in real projects.,Intermediate
+Data Science,I write optimized code in Data Science and work with data visualization.,Intermediate
+Web Development,I can build applications with Web Development using deployment.,Intermediate
+Python,I understand core Python concepts and apply them in real projects.,Intermediate
+Data Science,I can build applications with Data Science using model training.,Intermediate
+Web Development,I write optimized code in Web Development and work with full-stack apps.,Intermediate
+Data Science,I write optimized code in Data Science and work with data visualization.,Intermediate
+Cybersecurity,I write optimized code in Cybersecurity and work with security testing.,Intermediate
+SQL,"I use SQL regularly in my projects, including joins.",Intermediate
+Communication,I can build applications with Communication using mentoring.,Intermediate
+Cloud,"I use Cloud regularly in my projects, including deploying apps.",Intermediate
+SQL,I understand core SQL concepts and apply them in real projects.,Intermediate
+Cloud,I can build applications with Cloud using serverless computing.,Intermediate
+Data Science,I write optimized code in Data Science and work with feature engineering.,Intermediate
+Cybersecurity,I can build applications with Cybersecurity using encryption.,Intermediate
+Data Science,"I use Data Science regularly in my projects, including data visualization.",Intermediate
+Data Science,"I use Data Science regularly in my projects, including deep learning.",Intermediate
+Cybersecurity,I can build applications with Cybersecurity using security testing.,Intermediate
+SQL,I understand core SQL concepts and apply them in real projects.,Intermediate
+Python,I write optimized code in Python and work with basic scripts.,Intermediate
+Cloud,"I use Cloud regularly in my projects, including deploying apps.",Intermediate
+Machine Learning,"I use Machine Learning regularly in my projects, including neural networks.",Intermediate
+Machine Learning,I can build applications with Machine Learning using training models.,Intermediate
+Cybersecurity,"I use Cybersecurity regularly in my projects, including incident response.",Intermediate
+Communication,I can build applications with Communication using presentations.,Intermediate
+Cybersecurity,"I use Cybersecurity regularly in my projects, including encryption.",Intermediate
+Web Development,I understand core Web Development concepts and apply them in real projects.,Intermediate
+Cloud,I understand core Cloud concepts and apply them in real projects.,Intermediate
+Machine Learning,I understand core Machine Learning concepts and apply them in real projects.,Intermediate
+Python,I understand core Python concepts and apply them in real projects.,Intermediate
+Data Science,I can build applications with Data Science using model training.,Intermediate
+Data Science,I write optimized code in Data Science and work with model training.,Intermediate
+SQL,I write optimized code in SQL and work with SELECT queries.,Intermediate
+Java,I understand core Java concepts and apply them in real projects.,Intermediate
+Machine Learning,"I use Machine Learning regularly in my projects, including linear regression.",Intermediate
+Cloud,I understand core Cloud concepts and apply them in real projects.,Intermediate
+Web Development,"I use Web Development regularly in my projects, including REST APIs.",Intermediate
+Java,I can build applications with Java using multithreading.,Intermediate
+Machine Learning,I write optimized code in Machine Learning and work with linear regression.,Intermediate
+Web Development,"I use Web Development regularly in my projects, including full-stack apps.",Intermediate
+Machine Learning,I can build applications with Machine Learning using deep learning.,Intermediate
+Cybersecurity,"I use Cybersecurity regularly in my projects, including incident response.",Intermediate
+Communication,"I use Communication regularly in my projects, including mentoring.",Intermediate
+Python,"I use Python regularly in my projects, including data analysis with pandas.",Intermediate
+Data Science,I understand core Data Science concepts and apply them in real projects.,Intermediate
+Data Science,I understand core Data Science concepts and apply them in real projects.,Intermediate
+SQL,"I use SQL regularly in my projects, including subqueries.",Intermediate
+Data Science,I understand core Data Science concepts and apply them in real projects.,Intermediate
+Data Science,I can build applications with Data Science using data visualization.,Intermediate
+Web Development,I write optimized code in Web Development and work with REST APIs.,Intermediate
+Python,I understand core Python concepts and apply them in real projects.,Intermediate
+Java,I write optimized code in Java and work with multithreading.,Intermediate
+SQL,I understand core SQL concepts and apply them in real projects.,Intermediate
+Web Development,"I use Web Development regularly in my projects, including frontend frameworks.",Intermediate
+Java,I can build applications with Java using JVM tuning.,Intermediate
+Cybersecurity,I understand core Cybersecurity concepts and apply them in real projects.,Intermediate
+Machine Learning,"I use Machine Learning regularly in my projects, including deep learning.",Intermediate
+Web Development,I can build applications with Web Development using frontend frameworks.,Intermediate
+Cybersecurity,I write optimized code in Cybersecurity and work with security testing.,Intermediate
+Machine Learning,I write optimized code in Machine Learning and work with linear regression.,Intermediate
+Web Development,I write optimized code in Web Development and work with frontend frameworks.,Intermediate
+SQL,I can build applications with SQL using optimizing queries.,Intermediate
+Cybersecurity,I understand core Cybersecurity concepts and apply them in real projects.,Intermediate
+Java,"I use Java regularly in my projects, including OOP concepts.",Intermediate
+Communication,"I use Communication regularly in my projects, including technical communication.",Intermediate
+Python,I can build applications with Python using printing Hello World.,Intermediate
+Communication,"I use Communication regularly in my projects, including presentations.",Intermediate
+Data Science,I understand core Data Science concepts and apply them in real projects.,Intermediate
+Data Science,"I use Data Science regularly in my projects, including feature engineering.",Intermediate
+Communication,I can build applications with Communication using technical communication.,Intermediate
+Communication,I write optimized code in Communication and work with mentoring.,Intermediate
+Python,I can build applications with Python using printing Hello World.,Intermediate
+Java,I can build applications with Java using Spring Boot apps.,Intermediate
+Cybersecurity,"I use Cybersecurity regularly in my projects, including network basics.",Intermediate
+SQL,I understand core SQL concepts and apply them in real projects.,Intermediate
+Machine Learning,I can build applications with Machine Learning using NLP models.,Intermediate
+Cloud,"I use Cloud regularly in my projects, including serverless computing.",Intermediate
+Cybersecurity,"I use Cybersecurity regularly in my projects, including incident response.",Intermediate
+Machine Learning,I understand core Machine Learning concepts and apply them in real projects.,Intermediate
+Cloud,I write optimized code in Cloud and work with basic concepts.,Intermediate
+Web Development,I can build applications with Web Development using frontend frameworks.,Intermediate
+Communication,I write optimized code in Communication and work with introductions.,Intermediate
+Communication,I understand core Communication concepts and apply them in real projects.,Intermediate
+Cloud,I write optimized code in Cloud and work with serverless computing.,Intermediate
+Web Development,I write optimized code in Web Development and work with REST APIs.,Intermediate
+Cloud,I can build applications with Cloud using scalability.,Intermediate
+Cloud,"I use Cloud regularly in my projects, including cloud architecture.",Intermediate
+Web Development,"I use Web Development regularly in my projects, including full-stack apps.",Intermediate
+SQL,I understand core SQL concepts and apply them in real projects.,Intermediate
+Python,I write optimized code in Python and work with printing Hello World.,Intermediate
+Communication,I can build applications with Communication using mentoring.,Intermediate
+Data Science,I write optimized code in Data Science and work with exploratory analysis.,Intermediate
+Cloud,I can build applications with Cloud using scalability.,Intermediate
+Cybersecurity,I can build applications with Cybersecurity using incident response.,Intermediate
+Machine Learning,I understand core Machine Learning concepts and apply them in real projects.,Intermediate
+Java,"I use Java regularly in my projects, including Spring Boot apps.",Intermediate
+Cloud,I understand core Cloud concepts and apply them in real projects.,Intermediate
+Python,"I use Python regularly in my projects, including data analysis with pandas.",Intermediate
+Python,I write optimized code in Python and work with printing Hello World.,Intermediate
+Machine Learning,I can build applications with Machine Learning using training models.,Intermediate
+Cybersecurity,"I use Cybersecurity regularly in my projects, including encryption.",Intermediate
+Java,I understand core Java concepts and apply them in real projects.,Intermediate
+Python,I can build applications with Python using basic scripts.,Intermediate
+Web Development,"I use Web Development regularly in my projects, including HTML/CSS basics.",Intermediate
+Web Development,I can build applications with Web Development using REST APIs.,Intermediate
+Cybersecurity,"I use Cybersecurity regularly in my projects, including encryption.",Intermediate
+Machine Learning,I can build applications with Machine Learning using deep learning.,Intermediate
+Java,I understand core Java concepts and apply them in real projects.,Intermediate
+Web Development,"I use Web Development regularly in my projects, including deployment.",Intermediate
+Communication,I write optimized code in Communication and work with mentoring.,Intermediate
+Machine Learning,I understand core Machine Learning concepts and apply them in real projects.,Intermediate
+Data Science,I write optimized code in Data Science and work with deep learning.,Intermediate
+Cybersecurity,I write optimized code in Cybersecurity and work with encryption.,Intermediate
+Web Development,I write optimized code in Web Development and work with full-stack apps.,Intermediate
+Web Development,I understand core Web Development concepts and apply them in real projects.,Intermediate
+Communication,I write optimized code in Communication and work with mentoring.,Intermediate
+Data Science,I write optimized code in Data Science and work with deep learning.,Intermediate
+Data Science,I can build applications with Data Science using data visualization.,Intermediate
+Machine Learning,I can build applications with Machine Learning using neural networks.,Intermediate
+Python,"I use Python regularly in my projects, including data analysis with pandas.",Intermediate
+Data Science,"I use Data Science regularly in my projects, including exploratory analysis.",Intermediate
+Machine Learning,I can build applications with Machine Learning using training models.,Intermediate
+SQL,"I use SQL regularly in my projects, including joins.",Intermediate
+Machine Learning,I write optimized code in Machine Learning and work with NLP models.,Intermediate
+Cybersecurity,I understand core Cybersecurity concepts and apply them in real projects.,Intermediate
+Python,I understand core Python concepts and apply them in real projects.,Intermediate
+Java,"I use Java regularly in my projects, including multithreading.",Intermediate
+Java,I write optimized code in Java and work with OOP concepts.,Intermediate
+Machine Learning,I can build applications with Machine Learning using training models.,Intermediate
+Java,I understand core Java concepts and apply them in real projects.,Intermediate
+Cybersecurity,I can build applications with Cybersecurity using threat detection.,Intermediate
+Python,I can build applications with Python using automation.,Intermediate
+Cloud,I can build applications with Cloud using serverless computing.,Intermediate
+Cloud,"I use Cloud regularly in my projects, including scalability.",Intermediate
+SQL,I can build applications with SQL using joins.,Intermediate
+Java,I write optimized code in Java and work with JVM tuning.,Intermediate
+SQL,"I use SQL regularly in my projects, including optimizing queries.",Intermediate
+Cloud,"I use Cloud regularly in my projects, including basic concepts.",Intermediate
+SQL,I write optimized code in SQL and work with optimizing queries.,Intermediate
+Web Development,I can build applications with Web Development using full-stack apps.,Intermediate
+Cybersecurity,I write optimized code in Cybersecurity and work with incident response.,Intermediate
+Python,I can build applications with Python using building Flask apps.,Intermediate
+Data Science,I understand core Data Science concepts and apply them in real projects.,Intermediate
+Machine Learning,I write optimized code in Machine Learning and work with training models.,Intermediate
+Cloud,I can build applications with Cloud using deploying apps.,Intermediate
+Web Development,I can build applications with Web Development using REST APIs.,Intermediate
+Java,I can build applications with Java using OOP concepts.,Intermediate
+Web Development,I write optimized code in Web Development and work with REST APIs.,Intermediate
+Web Development,I write optimized code in Web Development and work with HTML/CSS basics.,Intermediate
+Python,I can build applications with Python using printing Hello World.,Intermediate
+SQL,I understand core SQL concepts and apply them in real projects.,Intermediate
+Web Development,I understand core Web Development concepts and apply them in real projects.,Intermediate
+Cybersecurity,I write optimized code in Cybersecurity and work with security testing.,Intermediate
+SQL,I understand core SQL concepts and apply them in real projects.,Intermediate
+Machine Learning,"I use Machine Learning regularly in my projects, including NLP models.",Intermediate
+Communication,I can build applications with Communication using team collaboration.,Intermediate
+Cybersecurity,I write optimized code in Cybersecurity and work with threat detection.,Intermediate
+Cybersecurity,I can build applications with Cybersecurity using security testing.,Intermediate
+Communication,I can build applications with Communication using introductions.,Intermediate
+Python,I write optimized code in Python and work with printing Hello World.,Intermediate
+Java,"I use Java regularly in my projects, including multithreading.",Intermediate
+SQL,I can build applications with SQL using INSERT queries.,Intermediate
+Cybersecurity,I write optimized code in Cybersecurity and work with incident response.,Intermediate
+Java,I understand core Java concepts and apply them in real projects.,Intermediate
+Machine Learning,I can build applications with Machine Learning using deep learning.,Intermediate
+Web Development,I can build applications with Web Development using REST APIs.,Intermediate
+Data Science,I can build applications with Data Science using deep learning.,Intermediate
+Java,"I use Java regularly in my projects, including multithreading.",Intermediate
+Machine Learning,I understand core Machine Learning concepts and apply them in real projects.,Intermediate
+Cybersecurity,I can build applications with Cybersecurity using encryption.,Intermediate
+Cybersecurity,"I use Cybersecurity regularly in my projects, including incident response.",Intermediate
+Java,I write optimized code in Java and work with OOP concepts.,Intermediate
+Cybersecurity,I understand core Cybersecurity concepts and apply them in real projects.,Intermediate
+Python,"I use Python regularly in my projects, including printing Hello World.",Intermediate
+Cloud,I write optimized code in Cloud and work with scalability.,Intermediate
+Cybersecurity,I write optimized code in Cybersecurity and work with encryption.,Intermediate
+Communication,I write optimized code in Communication and work with mentoring.,Intermediate
+SQL,I can build applications with SQL using optimizing queries.,Intermediate
+Machine Learning,I write optimized code in Machine Learning and work with training models.,Intermediate
+SQL,"I use SQL regularly in my projects, including INSERT queries.",Intermediate
+Cloud,I write optimized code in Cloud and work with cloud architecture.,Intermediate
+Web Development,I can build applications with Web Development using deployment.,Intermediate
+Web Development,I can build applications with Web Development using frontend frameworks.,Intermediate
+Web Development,I write optimized code in Web Development and work with HTML/CSS basics.,Intermediate
+SQL,I mentor others on best practices in SQL.,Advanced
+Data Science,I design and optimize Data Science systems for model training.,Advanced
+Machine Learning,"I build advanced solutions in Machine Learning, including training models.",Advanced
+Machine Learning,I design and optimize Machine Learning systems for linear regression.,Advanced
+Machine Learning,"I build advanced solutions in Machine Learning, including deep learning.",Advanced
+Python,I design and optimize Python systems for automation.,Advanced
+Java,I lead projects involving large-scale Java development.,Advanced
+Python,I lead projects involving large-scale Python development.,Advanced
+Web Development,I mentor others on best practices in Web Development.,Advanced
+Web Development,I mentor others on best practices in Web Development.,Advanced
+Communication,"I build advanced solutions in Communication, including mentoring.",Advanced
+Java,I design and optimize Java systems for OOP concepts.,Advanced
+Machine Learning,I design and optimize Machine Learning systems for linear regression.,Advanced
+Machine Learning,"I build advanced solutions in Machine Learning, including neural networks.",Advanced
+Data Science,I lead projects involving large-scale Data Science development.,Advanced
+Cybersecurity,I design and optimize Cybersecurity systems for incident response.,Advanced
+Communication,"I build advanced solutions in Communication, including presentations.",Advanced
+Cloud,I mentor others on best practices in Cloud.,Advanced
+Java,I mentor others on best practices in Java.,Advanced
+Machine Learning,I design and optimize Machine Learning systems for deep learning.,Advanced
+Data Science,I design and optimize Data Science systems for deep learning.,Advanced
+Machine Learning,I design and optimize Machine Learning systems for NLP models.,Advanced
+Communication,I mentor others on best practices in Communication.,Advanced
+Python,I design and optimize Python systems for data analysis with pandas.,Advanced
+SQL,I lead projects involving large-scale SQL development.,Advanced
+Cloud,I mentor others on best practices in Cloud.,Advanced
+Cybersecurity,I lead projects involving large-scale Cybersecurity development.,Advanced
+Data Science,I mentor others on best practices in Data Science.,Advanced
+Cloud,I design and optimize Cloud systems for deploying apps.,Advanced
+Data Science,I lead projects involving large-scale Data Science development.,Advanced
+Java,I mentor others on best practices in Java.,Advanced
+Python,I lead projects involving large-scale Python development.,Advanced
+Data Science,I lead projects involving large-scale Data Science development.,Advanced
+Data Science,I lead projects involving large-scale Data Science development.,Advanced
+Machine Learning,"I build advanced solutions in Machine Learning, including training models.",Advanced
+Python,I mentor others on best practices in Python.,Advanced
+Web Development,I design and optimize Web Development systems for deployment.,Advanced
+Machine Learning,I mentor others on best practices in Machine Learning.,Advanced
+Java,"I build advanced solutions in Java, including JVM tuning.",Advanced
+SQL,I design and optimize SQL systems for SELECT queries.,Advanced
+Communication,"I build advanced solutions in Communication, including presentations.",Advanced
+Java,I lead projects involving large-scale Java development.,Advanced
+Python,I design and optimize Python systems for printing Hello World.,Advanced
+Cybersecurity,"I build advanced solutions in Cybersecurity, including threat detection.",Advanced
+Web Development,I design and optimize Web Development systems for REST APIs.,Advanced
+SQL,"I build advanced solutions in SQL, including subqueries.",Advanced
+Machine Learning,I lead projects involving large-scale Machine Learning development.,Advanced
+Communication,"I build advanced solutions in Communication, including team collaboration.",Advanced
+Cloud,I design and optimize Cloud systems for serverless computing.,Advanced
+Machine Learning,I design and optimize Machine Learning systems for deep learning.,Advanced
+Python,"I build advanced solutions in Python, including basic scripts.",Advanced
+Python,I mentor others on best practices in Python.,Advanced
+Python,I lead projects involving large-scale Python development.,Advanced
+Communication,I lead projects involving large-scale Communication development.,Advanced
+Data Science,I design and optimize Data Science systems for deep learning.,Advanced
+Data Science,I lead projects involving large-scale Data Science development.,Advanced
+Data Science,I design and optimize Data Science systems for feature engineering.,Advanced
+Data Science,I lead projects involving large-scale Data Science development.,Advanced
+Communication,I design and optimize Communication systems for technical communication.,Advanced
+SQL,"I build advanced solutions in SQL, including joins.",Advanced
+Web Development,I mentor others on best practices in Web Development.,Advanced
+Communication,I mentor others on best practices in Communication.,Advanced
+Data Science,I lead projects involving large-scale Data Science development.,Advanced
+Data Science,I design and optimize Data Science systems for deep learning.,Advanced
+Cybersecurity,"I build advanced solutions in Cybersecurity, including security testing.",Advanced
+Cybersecurity,I lead projects involving large-scale Cybersecurity development.,Advanced
+Web Development,I mentor others on best practices in Web Development.,Advanced
+Java,I lead projects involving large-scale Java development.,Advanced
+Web Development,I mentor others on best practices in Web Development.,Advanced
+Java,"I build advanced solutions in Java, including OOP concepts.",Advanced
+SQL,I lead projects involving large-scale SQL development.,Advanced
+Java,I lead projects involving large-scale Java development.,Advanced
+Communication,"I build advanced solutions in Communication, including introductions.",Advanced
+Web Development,I design and optimize Web Development systems for REST APIs.,Advanced
+Communication,I lead projects involving large-scale Communication development.,Advanced
+Communication,I design and optimize Communication systems for technical communication.,Advanced
+SQL,I mentor others on best practices in SQL.,Advanced
+Cybersecurity,I lead projects involving large-scale Cybersecurity development.,Advanced
+Data Science,I design and optimize Data Science systems for model training.,Advanced
+Java,I lead projects involving large-scale Java development.,Advanced
+Cybersecurity,I mentor others on best practices in Cybersecurity.,Advanced
+Cloud,I design and optimize Cloud systems for basic concepts.,Advanced
+Cloud,I lead projects involving large-scale Cloud development.,Advanced
+SQL,"I build advanced solutions in SQL, including optimizing queries.",Advanced
+Cloud,"I build advanced solutions in Cloud, including scalability.",Advanced
+Python,"I build advanced solutions in Python, including basic scripts.",Advanced
+Data Science,I lead projects involving large-scale Data Science development.,Advanced
+Communication,I mentor others on best practices in Communication.,Advanced
+SQL,I design and optimize SQL systems for joins.,Advanced
+Cybersecurity,I mentor others on best practices in Cybersecurity.,Advanced
+Python,I lead projects involving large-scale Python development.,Advanced
+Python,I lead projects involving large-scale Python development.,Advanced
+Communication,I lead projects involving large-scale Communication development.,Advanced
+Communication,I mentor others on best practices in Communication.,Advanced
+Cloud,"I build advanced solutions in Cloud, including basic concepts.",Advanced
+SQL,I mentor others on best practices in SQL.,Advanced
+Python,I mentor others on best practices in Python.,Advanced
+Cloud,I lead projects involving large-scale Cloud development.,Advanced
+Machine Learning,I design and optimize Machine Learning systems for deep learning.,Advanced
+Machine Learning,"I build advanced solutions in Machine Learning, including NLP models.",Advanced
+Web Development,"I build advanced solutions in Web Development, including deployment.",Advanced
+Java,I design and optimize Java systems for Spring Boot apps.,Advanced
+Java,I mentor others on best practices in Java.,Advanced
+Python,I design and optimize Python systems for printing Hello World.,Advanced
+Cloud,"I build advanced solutions in Cloud, including serverless computing.",Advanced
+Java,"I build advanced solutions in Java, including multithreading.",Advanced
+Communication,I lead projects involving large-scale Communication development.,Advanced
+Data Science,I mentor others on best practices in Data Science.,Advanced
+Cybersecurity,I mentor others on best practices in Cybersecurity.,Advanced
+Cybersecurity,I lead projects involving large-scale Cybersecurity development.,Advanced
+Cybersecurity,I lead projects involving large-scale Cybersecurity development.,Advanced
+Communication,I lead projects involving large-scale Communication development.,Advanced
+Machine Learning,I design and optimize Machine Learning systems for NLP models.,Advanced
+Web Development,"I build advanced solutions in Web Development, including REST APIs.",Advanced
+Data Science,I lead projects involving large-scale Data Science development.,Advanced
+SQL,I lead projects involving large-scale SQL development.,Advanced
+Java,I design and optimize Java systems for multithreading.,Advanced
+Python,I lead projects involving large-scale Python development.,Advanced
+Machine Learning,I lead projects involving large-scale Machine Learning development.,Advanced
+Cloud,I design and optimize Cloud systems for cloud architecture.,Advanced
+Data Science,I lead projects involving large-scale Data Science development.,Advanced
+Python,"I build advanced solutions in Python, including printing Hello World.",Advanced
+Cloud,I lead projects involving large-scale Cloud development.,Advanced
+Data Science,I design and optimize Data Science systems for exploratory analysis.,Advanced
+Machine Learning,I lead projects involving large-scale Machine Learning development.,Advanced
+Communication,I design and optimize Communication systems for technical communication.,Advanced
+SQL,I design and optimize SQL systems for joins.,Advanced
+SQL,I mentor others on best practices in SQL.,Advanced
+Data Science,I design and optimize Data Science systems for feature engineering.,Advanced
+Python,"I build advanced solutions in Python, including basic scripts.",Advanced
+Web Development,I mentor others on best practices in Web Development.,Advanced
+SQL,I design and optimize SQL systems for optimizing queries.,Advanced
+Java,I lead projects involving large-scale Java development.,Advanced
+Java,I mentor others on best practices in Java.,Advanced
+Cybersecurity,I mentor others on best practices in Cybersecurity.,Advanced
+Web Development,I mentor others on best practices in Web Development.,Advanced
+Data Science,I lead projects involving large-scale Data Science development.,Advanced
+Machine Learning,I mentor others on best practices in Machine Learning.,Advanced
+Java,I lead projects involving large-scale Java development.,Advanced
+Data Science,I design and optimize Data Science systems for model training.,Advanced
+Cloud,"I build advanced solutions in Cloud, including basic concepts.",Advanced
+Web Development,I lead projects involving large-scale Web Development development.,Advanced
+Machine Learning,"I build advanced solutions in Machine Learning, including NLP models.",Advanced
+Machine Learning,I design and optimize Machine Learning systems for linear regression.,Advanced
+Cybersecurity,I design and optimize Cybersecurity systems for security testing.,Advanced
+Web Development,"I build advanced solutions in Web Development, including frontend frameworks.",Advanced
+Cybersecurity,I lead projects involving large-scale Cybersecurity development.,Advanced
+Web Development,"I build advanced solutions in Web Development, including REST APIs.",Advanced
+SQL,I design and optimize SQL systems for optimizing queries.,Advanced
+Python,I mentor others on best practices in Python.,Advanced
+Java,"I build advanced solutions in Java, including Spring Boot apps.",Advanced
+Cybersecurity,I lead projects involving large-scale Cybersecurity development.,Advanced
+Java,"I build advanced solutions in Java, including JVM tuning.",Advanced
+Web Development,"I build advanced solutions in Web Development, including full-stack apps.",Advanced
+SQL,I lead projects involving large-scale SQL development.,Advanced
+Web Development,I design and optimize Web Development systems for full-stack apps.,Advanced
+Cloud,I mentor others on best practices in Cloud.,Advanced
+Cybersecurity,"I build advanced solutions in Cybersecurity, including security testing.",Advanced
+Web Development,I lead projects involving large-scale Web Development development.,Advanced
+Cloud,I mentor others on best practices in Cloud.,Advanced
+Python,"I build advanced solutions in Python, including automation.",Advanced
+Cybersecurity,I mentor others on best practices in Cybersecurity.,Advanced
+Java,I design and optimize Java systems for multithreading.,Advanced
+Web Development,"I build advanced solutions in Web Development, including full-stack apps.",Advanced
+Communication,I lead projects involving large-scale Communication development.,Advanced
+Communication,"I build advanced solutions in Communication, including introductions.",Advanced
+Data Science,I mentor others on best practices in Data Science.,Advanced
+SQL,"I build advanced solutions in SQL, including INSERT queries.",Advanced
+Communication,"I build advanced solutions in Communication, including mentoring.",Advanced
+Java,I lead projects involving large-scale Java development.,Advanced
+SQL,I lead projects involving large-scale SQL development.,Advanced
+Java,I lead projects involving large-scale Java development.,Advanced
+Cybersecurity,"I build advanced solutions in Cybersecurity, including encryption.",Advanced
+Java,"I build advanced solutions in Java, including Spring Boot apps.",Advanced
+Web Development,I lead projects involving large-scale Web Development development.,Advanced
+Cybersecurity,"I build advanced solutions in Cybersecurity, including encryption.",Advanced
+Java,I design and optimize Java systems for multithreading.,Advanced
+SQL,I mentor others on best practices in SQL.,Advanced
+Java,I design and optimize Java systems for Spring Boot apps.,Advanced
+Communication,"I build advanced solutions in Communication, including presentations.",Advanced
+Machine Learning,I design and optimize Machine Learning systems for deep learning.,Advanced
+Cloud,"I build advanced solutions in Cloud, including deploying apps.",Advanced
+Data Science,I mentor others on best practices in Data Science.,Advanced
+SQL,I lead projects involving large-scale SQL development.,Advanced
+Data Science,I mentor others on best practices in Data Science.,Advanced
+Machine Learning,"I build advanced solutions in Machine Learning, including neural networks.",Advanced
+Cloud,"I build advanced solutions in Cloud, including serverless computing.",Advanced
+Data Science,I design and optimize Data Science systems for feature engineering.,Advanced
+Web Development,I lead projects involving large-scale Web Development development.,Advanced
+Python,"I build advanced solutions in Python, including basic scripts.",Advanced
+Cloud,"I build advanced solutions in Cloud, including deploying apps.",Advanced
+Cybersecurity,I mentor others on best practices in Cybersecurity.,Advanced
+Cybersecurity,I mentor others on best practices in Cybersecurity.,Advanced
+Data Science,I design and optimize Data Science systems for model training.,Advanced
+Communication,I design and optimize Communication systems for presentations.,Advanced
+SQL,"I build advanced solutions in SQL, including INSERT queries.",Advanced
+Java,I design and optimize Java systems for multithreading.,Advanced
+Cybersecurity,"I build advanced solutions in Cybersecurity, including security testing.",Advanced
+Web Development,"I build advanced solutions in Web Development, including frontend frameworks.",Advanced
+Cloud,I lead projects involving large-scale Cloud development.,Advanced
+SQL,I mentor others on best practices in SQL.,Advanced
+Web Development,I lead projects involving large-scale Web Development development.,Advanced
+Java,I design and optimize Java systems for Spring Boot apps.,Advanced
+Cybersecurity,"I build advanced solutions in Cybersecurity, including security testing.",Advanced
+Cybersecurity,I lead projects involving large-scale Cybersecurity development.,Advanced
+Data Science,"I build advanced solutions in Data Science, including data visualization.",Advanced
+Python,"I build advanced solutions in Python, including printing Hello World.",Advanced
+Machine Learning,I mentor others on best practices in Machine Learning.,Advanced
+Java,I design and optimize Java systems for multithreading.,Advanced
+Python,I mentor others on best practices in Python.,Advanced
+Communication,I mentor others on best practices in Communication.,Advanced
+Data Science,"I build advanced solutions in Data Science, including model training.",Advanced
+Data Science,I design and optimize Data Science systems for deep learning.,Advanced
+Python,"I build advanced solutions in Python, including automation.",Advanced
+Cloud,I lead projects involving large-scale Cloud development.,Advanced
+Communication,"I build advanced solutions in Communication, including introductions.",Advanced
+Cybersecurity,I lead projects involving large-scale Cybersecurity development.,Advanced
+Data Science,I mentor others on best practices in Data Science.,Advanced
+Communication,I mentor others on best practices in Communication.,Advanced
+Web Development,I mentor others on best practices in Web Development.,Advanced
+Machine Learning,I design and optimize Machine Learning systems for NLP models.,Advanced
+Java,"I build advanced solutions in Java, including JVM tuning.",Advanced
+SQL,I mentor others on best practices in SQL.,Advanced
+Communication,I lead projects involving large-scale Communication development.,Advanced
+Cybersecurity,I lead projects involving large-scale Cybersecurity development.,Advanced
+Cloud,I lead projects involving large-scale Cloud development.,Advanced
+Communication,"I build advanced solutions in Communication, including technical communication.",Advanced
+Machine Learning,I mentor others on best practices in Machine Learning.,Advanced
+Web Development,I lead projects involving large-scale Web Development development.,Advanced
+Data Science,"I build advanced solutions in Data Science, including deep learning.",Advanced
+Cloud,I mentor others on best practices in Cloud.,Advanced
+Machine Learning,I design and optimize Machine Learning systems for deep learning.,Advanced
+Python,"I build advanced solutions in Python, including printing Hello World.",Advanced
+Machine Learning,"I build advanced solutions in Machine Learning, including deep learning.",Advanced
+Communication,"I build advanced solutions in Communication, including team collaboration.",Advanced
+Machine Learning,"I build advanced solutions in Machine Learning, including training models.",Advanced
+SQL,I lead projects involving large-scale SQL development.,Advanced
+Cybersecurity,I mentor others on best practices in Cybersecurity.,Advanced
+Java,I lead projects involving large-scale Java development.,Advanced
+Cloud,"I build advanced solutions in Cloud, including deploying apps.",Advanced
+Communication,I mentor others on best practices in Communication.,Advanced
+Cybersecurity,I mentor others on best practices in Cybersecurity.,Advanced
+Web Development,I design and optimize Web Development systems for full-stack apps.,Advanced
+Web Development,I design and optimize Web Development systems for deployment.,Advanced
+Java,I mentor others on best practices in Java.,Advanced
+Java,I mentor others on best practices in Java.,Advanced
+Machine Learning,I design and optimize Machine Learning systems for neural networks.,Advanced
+Cloud,I lead projects involving large-scale Cloud development.,Advanced
+Cloud,I mentor others on best practices in Cloud.,Advanced
+Cloud,I design and optimize Cloud systems for cloud architecture.,Advanced
+Machine Learning,I design and optimize Machine Learning systems for training models.,Advanced
+Machine Learning,I design and optimize Machine Learning systems for linear regression.,Advanced
+SQL,"I build advanced solutions in SQL, including optimizing queries.",Advanced
+SQL,I mentor others on best practices in SQL.,Advanced
+Java,"I build advanced solutions in Java, including JVM tuning.",Advanced
+Python,"I build advanced solutions in Python, including data analysis with pandas.",Advanced
+Cloud,I lead projects involving large-scale Cloud development.,Advanced
+Web Development,I design and optimize Web Development systems for HTML/CSS basics.,Advanced
+Cybersecurity,I mentor others on best practices in Cybersecurity.,Advanced
+Data Science,I mentor others on best practices in Data Science.,Advanced
+Machine Learning,I mentor others on best practices in Machine Learning.,Advanced
+Communication,I design and optimize Communication systems for mentoring.,Advanced
+Cloud,I lead projects involving large-scale Cloud development.,Advanced
+Python,I mentor others on best practices in Python.,Advanced
+Java,I mentor others on best practices in Java.,Advanced
+Communication,I design and optimize Communication systems for team collaboration.,Advanced
+Web Development,I mentor others on best practices in Web Development.,Advanced
+Data Science,"I build advanced solutions in Data Science, including deep learning.",Advanced
+Python,I design and optimize Python systems for data analysis with pandas.,Advanced
+Cloud,I lead projects involving large-scale Cloud development.,Advanced
+Machine Learning,I mentor others on best practices in Machine Learning.,Advanced
+Python,I lead projects involving large-scale Python development.,Advanced
+Java,"I build advanced solutions in Java, including OOP concepts.",Advanced
+Web Development,I design and optimize Web Development systems for frontend frameworks.,Advanced
+Cloud,"I build advanced solutions in Cloud, including deploying apps.",Advanced
+Python,I mentor others on best practices in Python.,Advanced
+Cloud,I lead projects involving large-scale Cloud development.,Advanced
+Machine Learning,I lead projects involving large-scale Machine Learning development.,Advanced
+Machine Learning,I design and optimize Machine Learning systems for linear regression.,Advanced
+Data Science,I design and optimize Data Science systems for feature engineering.,Advanced
+Java,I mentor others on best practices in Java.,Advanced
+Java,"I build advanced solutions in Java, including enterprise applications.",Advanced
+Cloud,I lead projects involving large-scale Cloud development.,Advanced
+Cloud,I mentor others on best practices in Cloud.,Advanced
+Java,I lead projects involving large-scale Java development.,Advanced
+Machine Learning,I design and optimize Machine Learning systems for NLP models.,Advanced
+Data Science,I design and optimize Data Science systems for deep learning.,Advanced
+Machine Learning,I design and optimize Machine Learning systems for deep learning.,Advanced
+Java,"I build advanced solutions in Java, including JVM tuning.",Advanced
+Data Science,"I build advanced solutions in Data Science, including model training.",Advanced
+Web Development,I design and optimize Web Development systems for REST APIs.,Advanced
+Cybersecurity,I mentor others on best practices in Cybersecurity.,Advanced
+Data Science,I lead projects involving large-scale Data Science development.,Advanced
+SQL,I lead projects involving large-scale SQL development.,Advanced
+Cloud,I mentor others on best practices in Cloud.,Advanced
+Communication,I design and optimize Communication systems for team collaboration.,Advanced
+Cybersecurity,"I build advanced solutions in Cybersecurity, including security testing.",Advanced
+Java,"I build advanced solutions in Java, including JVM tuning.",Advanced
+Web Development,"I build advanced solutions in Web Development, including frontend frameworks.",Advanced
+Cloud,"I build advanced solutions in Cloud, including serverless computing.",Advanced
+Java,"I build advanced solutions in Java, including multithreading.",Advanced
+Communication,I mentor others on best practices in Communication.,Advanced
+Cybersecurity,I design and optimize Cybersecurity systems for network basics.,Advanced
+SQL,I design and optimize SQL systems for SELECT queries.,Advanced
+Machine Learning,"I build advanced solutions in Machine Learning, including NLP models.",Advanced
+Data Science,I design and optimize Data Science systems for data visualization.,Advanced
+Machine Learning,I mentor others on best practices in Machine Learning.,Advanced
+Cloud,I mentor others on best practices in Cloud.,Advanced
+Machine Learning,I lead projects involving large-scale Machine Learning development.,Advanced
+Java,I mentor others on best practices in Java.,Advanced
+Communication,I design and optimize Communication systems for mentoring.,Advanced
+Cybersecurity,I mentor others on best practices in Cybersecurity.,Advanced
+Java,I lead projects involving large-scale Java development.,Advanced
+Python,I mentor others on best practices in Python.,Advanced
+Data Science,I mentor others on best practices in Data Science.,Advanced
+SQL,I mentor others on best practices in SQL.,Advanced
+SQL,"I build advanced solutions in SQL, including subqueries.",Advanced
+Cybersecurity,"I build advanced solutions in Cybersecurity, including security testing.",Advanced
+Cybersecurity,I lead projects involving large-scale Cybersecurity development.,Advanced
+Communication,"I build advanced solutions in Communication, including technical communication.",Advanced
+Machine Learning,I design and optimize Machine Learning systems for neural networks.,Advanced
+Python,I design and optimize Python systems for printing Hello World.,Advanced
+Data Science,I mentor others on best practices in Data Science.,Advanced
+Cybersecurity,I lead projects involving large-scale Cybersecurity development.,Advanced
+Cybersecurity,I mentor others on best practices in Cybersecurity.,Advanced
+Web Development,I design and optimize Web Development systems for deployment.,Advanced
+Communication,I design and optimize Communication systems for mentoring.,Advanced
+Communication,I lead projects involving large-scale Communication development.,Advanced
+Machine Learning,I lead projects involving large-scale Machine Learning development.,Advanced
+Java,I design and optimize Java systems for OOP concepts.,Advanced
+Python,"I build advanced solutions in Python, including data analysis with pandas.",Advanced
+Data Science,"I build advanced solutions in Data Science, including data visualization.",Advanced
+Machine Learning,I mentor others on best practices in Machine Learning.,Advanced
+Communication,"I build advanced solutions in Communication, including mentoring.",Advanced
+Data Science,I design and optimize Data Science systems for deep learning.,Advanced
+Java,I lead projects involving large-scale Java development.,Advanced
+Python,"I build advanced solutions in Python, including building Flask apps.",Advanced
+SQL,I lead projects involving large-scale SQL development.,Advanced
+SQL,"I build advanced solutions in SQL, including optimizing queries.",Advanced
+Communication,I mentor others on best practices in Communication.,Advanced
+Communication,I mentor others on best practices in Communication.,Advanced
+Machine Learning,I design and optimize Machine Learning systems for NLP models.,Advanced
+Web Development,I mentor others on best practices in Web Development.,Advanced
+Python,I lead projects involving large-scale Python development.,Advanced
+Machine Learning,"I build advanced solutions in Machine Learning, including linear regression.",Advanced
+Cybersecurity,I lead projects involving large-scale Cybersecurity development.,Advanced
+Cybersecurity,I design and optimize Cybersecurity systems for security testing.,Advanced
+Java,I design and optimize Java systems for enterprise applications.,Advanced
+Machine Learning,I design and optimize Machine Learning systems for deep learning.,Advanced
+Web Development,I mentor others on best practices in Web Development.,Advanced
+Data Science,I design and optimize Data Science systems for feature engineering.,Advanced
+Communication,I design and optimize Communication systems for presentations.,Advanced
+Web Development,I lead projects involving large-scale Web Development development.,Advanced
+Cloud,I design and optimize Cloud systems for deploying apps.,Advanced
+Communication,I lead projects involving large-scale Communication development.,Advanced
+Cybersecurity,I mentor others on best practices in Cybersecurity.,Advanced
+Web Development,I lead projects involving large-scale Web Development development.,Advanced
+Web Development,I lead projects involving large-scale Web Development development.,Advanced
+Web Development,I lead projects involving large-scale Web Development development.,Advanced
+Python,I lead projects involving large-scale Python development.,Advanced
+Web Development,I design and optimize Web Development systems for REST APIs.,Advanced
+Cybersecurity,"I build advanced solutions in Cybersecurity, including incident response.",Advanced
+Communication,I mentor others on best practices in Communication.,Advanced
+SQL,I design and optimize SQL systems for joins.,Advanced
+Machine Learning,"I build advanced solutions in Machine Learning, including NLP models.",Advanced
+Cybersecurity,"I build advanced solutions in Cybersecurity, including network basics.",Advanced
+Python,I mentor others on best practices in Python.,Advanced
+Communication,I mentor others on best practices in Communication.,Advanced
+SQL,I design and optimize SQL systems for joins.,Advanced
+Cloud,"I build advanced solutions in Cloud, including scalability.",Advanced
+SQL,I mentor others on best practices in SQL.,Advanced
+Java,"I build advanced solutions in Java, including OOP concepts.",Advanced
+Web Development,I mentor others on best practices in Web Development.,Advanced
+Web Development,I lead projects involving large-scale Web Development development.,Advanced
+Cloud,I lead projects involving large-scale Cloud development.,Advanced
+Cybersecurity,I design and optimize Cybersecurity systems for encryption.,Advanced
+Data Science,I mentor others on best practices in Data Science.,Advanced
+Python,I lead projects involving large-scale Python development.,Advanced
+Data Science,I mentor others on best practices in Data Science.,Advanced
+Data Science,I design and optimize Data Science systems for model training.,Advanced
+Machine Learning,I lead projects involving large-scale Machine Learning development.,Advanced
+Communication,I lead projects involving large-scale Communication development.,Advanced
+Machine Learning,I design and optimize Machine Learning systems for NLP models.,Advanced
+Cybersecurity,I mentor others on best practices in Cybersecurity.,Advanced
+Cybersecurity,I lead projects involving large-scale Cybersecurity development.,Advanced
+Web Development,I lead projects involving large-scale Web Development development.,Advanced
+Web Development,"I build advanced solutions in Web Development, including full-stack apps.",Advanced
+Communication,"I build advanced solutions in Communication, including technical communication.",Advanced
+SQL,I design and optimize SQL systems for joins.,Advanced
+Cloud,I mentor others on best practices in Cloud.,Advanced
+Web Development,I lead projects involving large-scale Web Development development.,Advanced
+Python,"I build advanced solutions in Python, including printing Hello World.",Advanced
+Communication,I design and optimize Communication systems for team collaboration.,Advanced
+Cybersecurity,I lead projects involving large-scale Cybersecurity development.,Advanced
+Java,I design and optimize Java systems for enterprise applications.,Advanced
+Java,I mentor others on best practices in Java.,Advanced
+Java,I mentor others on best practices in Java.,Advanced
+Machine Learning,I mentor others on best practices in Machine Learning.,Advanced
+Cloud,I design and optimize Cloud systems for cloud architecture.,Advanced
+Cybersecurity,I mentor others on best practices in Cybersecurity.,Advanced
+Java,I mentor others on best practices in Java.,Advanced
+Python,I lead projects involving large-scale Python development.,Advanced
+Machine Learning,I design and optimize Machine Learning systems for linear regression.,Advanced
+Communication,"I build advanced solutions in Communication, including mentoring.",Advanced
+SQL,I lead projects involving large-scale SQL development.,Advanced
+Cybersecurity,I design and optimize Cybersecurity systems for threat detection.,Advanced
+Python,I lead projects involving large-scale Python development.,Advanced
+SQL,I lead projects involving large-scale SQL development.,Advanced
+Data Science,I lead projects involving large-scale Data Science development.,Advanced
+Communication,I mentor others on best practices in Communication.,Advanced
+Cybersecurity,I design and optimize Cybersecurity systems for encryption.,Advanced
+Communication,"I build advanced solutions in Communication, including introductions.",Advanced
+SQL,I design and optimize SQL systems for subqueries.,Advanced
+Cybersecurity,I mentor others on best practices in Cybersecurity.,Advanced
+Python,I lead projects involving large-scale Python development.,Advanced
+Cybersecurity,I mentor others on best practices in Cybersecurity.,Advanced
+SQL,I design and optimize SQL systems for INSERT queries.,Advanced
+Python,I mentor others on best practices in Python.,Advanced
+Cybersecurity,I design and optimize Cybersecurity systems for encryption.,Advanced
+Cloud,I mentor others on best practices in Cloud.,Advanced
+Java,I design and optimize Java systems for OOP concepts.,Advanced
+Cybersecurity,I lead projects involving large-scale Cybersecurity development.,Advanced
+Communication,I design and optimize Communication systems for presentations.,Advanced
+SQL,I lead projects involving large-scale SQL development.,Advanced
+Cloud,I mentor others on best practices in Cloud.,Advanced
+Python,"I build advanced solutions in Python, including basic scripts.",Advanced
+SQL,"I build advanced solutions in SQL, including optimizing queries.",Advanced
+SQL,I design and optimize SQL systems for subqueries.,Advanced
+Web Development,I lead projects involving large-scale Web Development development.,Advanced
+Communication,"I build advanced solutions in Communication, including technical communication.",Advanced
+Cloud,I lead projects involving large-scale Cloud development.,Advanced
+SQL,"I build advanced solutions in SQL, including INSERT queries.",Advanced
+SQL,I mentor others on best practices in SQL.,Advanced
+Cybersecurity,I lead projects involving large-scale Cybersecurity development.,Advanced
+Java,I lead projects involving large-scale Java development.,Advanced
+Cloud,"I build advanced solutions in Cloud, including scalability.",Advanced
+Java,I lead projects involving large-scale Java development.,Advanced
+Cybersecurity,"I build advanced solutions in Cybersecurity, including threat detection.",Advanced
+Data Science,I design and optimize Data Science systems for exploratory analysis.,Advanced
+Machine Learning,I design and optimize Machine Learning systems for NLP models.,Advanced
+Data Science,I lead projects involving large-scale Data Science development.,Advanced
+Cloud,I mentor others on best practices in Cloud.,Advanced
+Cloud,I lead projects involving large-scale Cloud development.,Advanced
+Java,I design and optimize Java systems for Spring Boot apps.,Advanced
+SQL,I lead projects involving large-scale SQL development.,Advanced
+Cloud,I mentor others on best practices in Cloud.,Advanced
+Cybersecurity,"I build advanced solutions in Cybersecurity, including security testing.",Advanced
+Data Science,I design and optimize Data Science systems for deep learning.,Advanced
+Data Science,I mentor others on best practices in Data Science.,Advanced
+Communication,"I build advanced solutions in Communication, including mentoring.",Advanced
+Python,I design and optimize Python systems for basic scripts.,Advanced
+Machine Learning,I lead projects involving large-scale Machine Learning development.,Advanced
+Python,"I build advanced solutions in Python, including data analysis with pandas.",Advanced
+Cybersecurity,I lead projects involving large-scale Cybersecurity development.,Advanced
+Cybersecurity,I lead projects involving large-scale Cybersecurity development.,Advanced
+Machine Learning,I mentor others on best practices in Machine Learning.,Advanced
+SQL,I mentor others on best practices in SQL.,Advanced
+Web Development,I lead projects involving large-scale Web Development development.,Advanced
+Data Science,"I build advanced solutions in Data Science, including exploratory analysis.",Advanced
+Python,"I build advanced solutions in Python, including printing Hello World.",Advanced
+Cybersecurity,I mentor others on best practices in Cybersecurity.,Advanced
+Communication,I design and optimize Communication systems for team collaboration.,Advanced
+Java,I design and optimize Java systems for multithreading.,Advanced
+Python,I mentor others on best practices in Python.,Advanced
+Cloud,I mentor others on best practices in Cloud.,Advanced
+Python,I mentor others on best practices in Python.,Advanced
+SQL,"I build advanced solutions in SQL, including INSERT queries.",Advanced
+Python,I design and optimize Python systems for building Flask apps.,Advanced
+Communication,I mentor others on best practices in Communication.,Advanced
+Java,I lead projects involving large-scale Java development.,Advanced
+Machine Learning,"I build advanced solutions in Machine Learning, including training models.",Advanced
+Data Science,I lead projects involving large-scale Data Science development.,Advanced
+Python,"I build advanced solutions in Python, including data analysis with pandas.",Advanced
+Communication,I design and optimize Communication systems for technical communication.,Advanced
+Data Science,I design and optimize Data Science systems for data visualization.,Advanced
+Web Development,I lead projects involving large-scale Web Development development.,Advanced
+Python,"I build advanced solutions in Python, including printing Hello World.",Advanced
+Java,"I build advanced solutions in Java, including Spring Boot apps.",Advanced
+Python,I design and optimize Python systems for printing Hello World.,Advanced
+Cloud,I lead projects involving large-scale Cloud development.,Advanced
+Machine Learning,I mentor others on best practices in Machine Learning.,Advanced
+Cloud,I design and optimize Cloud systems for serverless computing.,Advanced
+Cybersecurity,I mentor others on best practices in Cybersecurity.,Advanced
+Communication,I mentor others on best practices in Communication.,Advanced
+Machine Learning,I lead projects involving large-scale Machine Learning development.,Advanced
+Communication,I lead projects involving large-scale Communication development.,Advanced
+Machine Learning,"I build advanced solutions in Machine Learning, including training models.",Advanced
+Java,I mentor others on best practices in Java.,Advanced
+Python,I lead projects involving large-scale Python development.,Advanced
+Communication,I mentor others on best practices in Communication.,Advanced
+Communication,I mentor others on best practices in Communication.,Advanced
+Cloud,I mentor others on best practices in Cloud.,Advanced
+Machine Learning,I lead projects involving large-scale Machine Learning development.,Advanced
+Communication,I design and optimize Communication systems for mentoring.,Advanced
+SQL,I mentor others on best practices in SQL.,Advanced
+SQL,I mentor others on best practices in SQL.,Advanced
+Web Development,I lead projects involving large-scale Web Development development.,Advanced
+Cybersecurity,"I build advanced solutions in Cybersecurity, including threat detection.",Advanced
+Communication,I mentor others on best practices in Communication.,Advanced
+Machine Learning,I mentor others on best practices in Machine Learning.,Advanced
